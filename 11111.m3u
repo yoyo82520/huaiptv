@@ -1,6 +1,5 @@
 #EXTM3U 
-
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1235577151_6565",CCTV-1综合
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1235577151_6565",CCTV-
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1235577151_6565",CCTV-1综合
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
@@ -294,12 +293,6 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png" tvg-id="1235577151_6041",Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="港台",MiaoMi
-http://198.16.106.62:8278/streams/d/MiaoMi/playlist.m3u8
-#EXTINF:-1,凤凰中文HD
-http://117.169.120.217:8080/live/fhchinese/.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 group-title="求索" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="求索" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实ᴴᴰ
