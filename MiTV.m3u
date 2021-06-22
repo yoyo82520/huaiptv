@@ -159,10 +159,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视ᴴᴰ
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视ᴴᴰ
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",海峡卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视ᴴᴰ
@@ -181,6 +177,10 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视ᴴᴰ
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",海峡卫视
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台",翡翠台ᴴᴰ
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台",翡翠台
@@ -193,7 +193,7 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="港台",明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="港台",明珠台(粤)
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84b.png" group-title="港台",明珠台(粤)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="港台",无线新闻ᴴᴰ
 https://cdn.hkdtmb.com/hls/83/index.m3u8
@@ -209,7 +209,7 @@ https://cdn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="港台",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTVsix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="港台",ViuTV6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTVsix" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="港台",ViuTV6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="港台",TVB星河频道
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -253,11 +253,11 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文(备3)
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文(备)
 http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯(备2)
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯(备)
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台",香港开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
@@ -417,13 +417,13 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1324
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31485
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png" group-title="体育",BEIN SPORTS 1ᴴᴰ
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31486
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png" group-title="体育",BEIN SPORTS 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png" group-title="体育",BEIN SPORTS 1ᴴᴰ
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31487
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_1_SD.png" group-title="体育",BEIN SPORTS 1 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31488
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png" group-title="体育",BEIN SPORTS RED 2ᴴᴰ 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png" group-title="体育",BEIN SPORTS 3 ᴴᴰ 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png" group-title="体育",BEIN SPORTS 3ᴴᴰ 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31492
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.ott.ma/logo/bein%20sport%20max/bein_sport_max_1_HD.png" group-title="体育",BEIN SPORTS 1 MAXᴴᴰ 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31494
