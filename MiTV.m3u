@@ -311,6 +311,8 @@ http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港台",MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="	MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png" group-title="港台",MTV
+http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="港台",三立戏剧台
 http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="港台",爱尔达体育3台
@@ -735,6 +737,119 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/981
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/983
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="体育",ELEVEN SPORTS 6ᴴᴰ
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/985
+EXTINF:-1 tvg-id="247Retro.us" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="体育+",beIN SPORTS NEWS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/315505
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="beIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",beIN SPORT 01 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="beIN SPORT 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="体育+",beIN SPORT 02 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="beIN SPORT 03 HD" tvg-logo="http://epg4you.com/logos/beinsports3.png" group-title="体育+",beIN SPORT 03 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="beIN SPORT 04 HD" tvg-logo="http://epg4you.com/logos/beinsports4.png" group-title="体育+",beIN SPORT 04 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="beIN SPORT 05 HD" tvg-logo="http://epg4you.com/logos/beinsports5.png" group-title="体育+",beIN SPORT 05 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="beIN SPORT 06 HD" tvg-logo="http://epg4you.com/logos/beinsports6.png" group-title="体育+",beIN SPORT 06 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="beIN SPORT 07 HD" tvg-logo="http://epg4you.com/logos/beinsports7.png" group-title="体育+",beIN SPORT 07 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 01 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="体育+",beIN SPORTS MAX 01 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/411422
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 02 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="体育+",beIN SPORTS MAX 02 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/411423
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 03 HD FRN" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="体育+",beIN SPORTS MAX 03 HD FRN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/411424
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS MAX 04 HD ENG" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="体育+",beIN SPORTS MAX 04 HD ENG
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15688
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS MAX 05 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-2-qa-fr.png" group-title="体育+",beIN SPORTS MAX 05 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15714
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS MAX 06 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-3-qa-fr.png" group-title="体育+",beIN SPORTS MAX 06 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15671
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="beIN SPORTS PREMIUM 01 HD" tvg-logo="http://epg4you.com/logos/beinsports8.png" group-title="体育+",beIN SPORTS PREMIUM 01 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30241
+#EXTINF:-1 tvg-id="beINSports9.us" tvg-name="beIN SPORTS PREMIUM 02 HD" tvg-logo="http://epg4you.com/logos/beinsports9.png" group-title="体育+",beIN SPORTS PREMIUM 02 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
+#EXTINF:-1 tvg-id="beINSports10.us" tvg-name="beIN SPORTS PREMIUM 03 HD" tvg-logo="http://epg4you.com/logos/beinsports10.png" group-title="体育+",beIN SPORTS PREMIUM 03 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 04 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-max-4-qa-fr.png" group-title="体育+",beIN SPORTS MAX 04 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31191
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 05 HD." tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="体育+",beIN SPORTS MAX 05 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31190
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 06 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_06_hd.png" group-title="体育+",beIN SPORTS MAX 06 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31189
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 07 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_07_hd.png" group-title="体育+",beIN SPORTS MAX 07 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31188
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 08 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_08_hd.png" group-title="体育+",beIN SPORTS MAX 08 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31187
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="beIN SPORTS MAX 09 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_09_hd.png" group-title="体育+",beIN SPORTS MAX 09 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31186
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN SPORTS MAX 10 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_10_hd.png" group-title="体育+",beIN SPORTS MAX 10 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31185
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="beIN SPORT 01 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-1-qa-fr.png" group-title="体育+",beIN SPORT 01 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="beIN SPORT 02 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-2-qa-fr.png" group-title="体育+",beIN SPORT 02 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORT 03 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-3-qa-fr.png" group-title="体育+",beIN SPORT 03 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31192
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORT 1 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="体育+",BT SPORT 1 HD UK
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT SPORT 2 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="体育+",BT SPORT 2 HD UK
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORT 3 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="体育+",BT SPORT 3 HD UK
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265922
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="...BT SPORT ESPN" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-espn-uk.png" group-title="体育+",T SPORT ESPN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265923
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="体育+",ESPN SEC NETWORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60414
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ESPN PLUS HD" tvg-logo="http://epg4you.com/logos/beinsportsmax4.png" group-title="体育+",ESPN PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31017
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="体育+",ESPN 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7963
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="体育+",ESPN 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="体育+",MSG NETWORKS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7964
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="体育+",ESPNU HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7895
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="体育+",ESPN NEWS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7898
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 1 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-1-rs.png" group-title="体育+",ARENA SPORT 1 HR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12319
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 2 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="体育+",ARENA SPORT 2 HR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12317
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 3 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-3-rs.png" group-title="体育+",ARENA SPORT 3 HR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12315
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 4 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png" group-title="体育+",ARENA SPORT 4 HR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12313
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 5 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png" group-title="体育+",ARENA SPORT 5 HR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12311
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 1 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="体育+",ARENA SPORT 1 SRB
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12318
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 2 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="体育+",ARENA SPORT 2 SRB
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12316
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 4 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png" group-title="体育+",ARENA SPORT 4 SRB
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12312
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ARENA SPORT 5 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png" group-title="体育+",ARENA SPORT 5 SRB
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12310
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="...FOX SPORTS WISCONSIN HD" tvg-logo="http://epg4you.com/logos/beinsports1.png" group-title="体育+",FOX SPORTS WISCONSIN HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31032
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="...FOX SPORTS SAN DIEGO HD" tvg-logo="http://epg4you.com/logos/beinsports2.png" group-title="体育+",FOX SPORTS SAN DIEGO HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31031
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FOX SPORTS SPORTSTIME OHIO HD" tvg-logo="http://epg4you.com/logos/beinsports3.png" group-title="体育+",FOX SPORTS SPORTSTIME OHIO HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31030
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="FOX SPORTS TENNESSEE HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",FOX SPORTS TENNESSEE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31029
+#EXTINF:-1 tvg-id="FoxSportsWest.us" tvg-name="FOX SPORTS WEST HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",FOX SPORTS WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31028
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="FOX SPORTS NORTH HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",FOX SPORTS NORTH HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31027
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="FOX SPORTS SOUTHWEST HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",FOX SPORTS SOUTHWEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31026
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="FOX SPORTS SUN HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="体育+",FOX SPORTS SUN HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31021
+#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nba_tv_us.png" group-title="体育+",NBA HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
+
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="求索",上海纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="求索",上海纪实ᴴᴰ
