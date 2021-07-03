@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/json;charset=UTF-8');
 $dir=dirname(__FILE__);
-$files = glob('./list/*.txt');
+$files = glob('./list/10001.txt');
 
 
 $result='';
