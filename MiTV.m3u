@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
@@ -1123,7 +1123,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FoxMovies" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png" group-title="越南", FOX 电影
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png" group-title="越南", FOX LIFEᴴᴰ
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png" group-title="越南", FOX LIFE
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png" group-title="越南",法国24
@@ -1140,10 +1140,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4ZYdX8g/kidᴴᴰlogobyvovanloc.png" group-title="越南", KIXᴴᴰ
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png" group-title="越南", KBS World 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png" group-title="越南", KBS World
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8 
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png" group-title="越南", KBS World (Server 2)
-https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_ᴴᴰ/kbs_world_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="越南",探索频道ᴴᴰ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="越南",探索频道
