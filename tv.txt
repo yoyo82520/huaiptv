@@ -3,23 +3,23 @@ CCTV-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/
 CCTV-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 CCTV-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV-2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-CCTV-2ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+CCTV-2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
 CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-3ᴴᴰ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229875/index.m3u8
+CCTV-3,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229875/index.m3u8
 CCTV-4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-CCTV-5ᴴᴰ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8
-CCTV-5ᴴᴰ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228645/index.m3u8
+CCTV-5,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8
+CCTV-5,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228645/index.m3u8
 CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
-CCTV-6ᴴᴰ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
-CCTV-7ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
+CCTV-6,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
+CCTV-7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
 CCTV-7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV-7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-CCTV-8ᴴᴰ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
-CCTV-8ᴴᴰ,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
-CCTV-9ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+CCTV-8,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
+CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV-9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 CCTV-10,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-10,http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
 CCTV-10,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8
@@ -55,57 +55,56 @@ CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17,http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
-
 卫视,#genre#
 东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
-东方卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
+东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
 北京卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
-北京卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/index.m3u8
-江苏卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
+北京卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/index.m3u8
+江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
 浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
-浙江卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8
+浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8
 湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
-湖南卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
+湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
 广东卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
-广东卫视ᴴᴰ,http://183.207.255.190/live/program/live/gdwshd/4000000/mnf.m3u8
+广东卫视,http://183.207.255.190/live/program/live/gdwshd/4000000/mnf.m3u8
 深圳卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
-深圳卫视ᴴᴰ,http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8
-四川卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
+深圳卫视,http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8
+四川卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 安徽卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
 山东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/index.m3u8
-山东卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8
+山东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8
 江西卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
-江西卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8
-河北卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
-河南卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
+江西卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8
+河北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
+河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 湖北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8
-湖北卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
-贵州卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
-辽宁卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8
-重庆卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
+湖北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+贵州卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
+辽宁卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8
+重庆卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
-黑龙江卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8
-黑龙江卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8
+黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8
+黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8
 厦门卫视,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
-海南卫视ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
+海南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 海峡卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 港台,#genre#
-翡翠台ᴴᴰ,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2台ᴴᴰ,https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-明珠台ᴴᴰ,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 明珠台(粤),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-无线新闻ᴴᴰ,https://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 无线新闻(备),http://livetv.dnsfor.me:80/channel.10.m3u8
 无线财经资讯台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-无线财经资讯台ᴴᴰ,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTVᴴᴰ,https://cdn.hkdtmb.com/hls/99/index.m3u8
+无线财经资讯台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -142,7 +141,7 @@ RHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 民视,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐台,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-TVBSᴴᴰ,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
 中天娱乐,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
 中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
@@ -164,7 +163,7 @@ MTV,http://190.2.155.162:8080/mtvfrance/mpegts
 爱尔达体育3台,http://198.16.106.62:8278/eltasport3_zero/playlist.m3u8
 爱尔达综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-BBC Earthᴴᴰ,http://198.16.106.62:8278/streams/d/bbcearthᴴᴰ_zero/playlist.m3u8
+BBC Earth,http://198.16.106.62:8278/streams/d/bbcearth_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
@@ -184,19 +183,19 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-NBA TVᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46944
-BEIN Sport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20066
-BEIN Sport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20067
-BEIN Sport 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20068
-BEIN Sport 4ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20069
-BEIN Sport 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20070
-BEIN Sport 6ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20071
-BEIN Sport 7ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20072
-BEIN Sport 8ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20073
-BEIN Sport 9ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20074
-BEIN Sport 10ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20075
-BEIN Sport 11ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24723
-BEIN Sport 12ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24724
+NBA TV,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46944
+BEIN Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20066
+BEIN Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20067
+BEIN Sport 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20068
+BEIN Sport 4,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20069
+BEIN Sport 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20070
+BEIN Sport 6,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20071
+BEIN Sport 7,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20072
+BEIN Sport 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20073
+BEIN Sport 9,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20074
+BEIN Sport 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20075
+BEIN Sport 11,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24723
+BEIN Sport 12,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24724
 BEIN SPORTS 1HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/998
 BEIN SPORTS 2HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/999
 BEIN SPORTS 3HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1000
@@ -214,26 +213,26 @@ BEIN SPORT 9,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1321
 BEIN SPORT 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1322
 BEIN SPORT 11 (ENG),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1323
 BEIN SPORT 12 (ENG),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1324
-BEIN SPORTS Haberᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31485
-BEIN SPORTS 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31486
-BEIN SPORTS 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31487
+BEIN SPORTS Haber,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31485
+BEIN SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31486
+BEIN SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31487
 BEIN SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31488
-BEIN SPORTS RED 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31491
-BEIN SPORTS 3ᴴᴰ 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31492
-BEIN SPORTS 1 MAXᴴᴰ 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31494
+BEIN SPORTS RED 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31491
+BEIN SPORTS 3 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31492
+BEIN SPORTS 1 MAX 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31494
 BEIN SPORTS Max2 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31495
-BEIN SPORTS 2 MAXᴴᴰ 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31496
-BEIN SPORTS MAX 4ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3591
-BEIN SPORTS MAX 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3592
-BEIN SPORTS MAX 6ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3593
-BEIN SPORTS MAX 7ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3594
-BEIN SPORTS MAX 8ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3595
-BEIN SPORTS MAX 9ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3596
-BEIN SPORTS MAX 10ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3597
+BEIN SPORTS 2 MAX 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31496
+BEIN SPORTS MAX 4,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3591
+BEIN SPORTS MAX 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3592
+BEIN SPORTS MAX 6,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3593
+BEIN SPORTS MAX 7,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3594
+BEIN SPORTS MAX 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3595
+BEIN SPORTS MAX 9,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3596
+BEIN SPORTS MAX 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3597
 BEIN SPORTS 4 HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38797
 BEIN SPORTS 4 HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38799
 BEIN SPORTS 1 | HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46931
-BEIN SPORTS 1 |ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46932
+BEIN SPORTS 1 |,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46932
 BEIN SPORTS 2 | HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46933
 BEIN SPORTS 3 | HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46934
 BEIN SPORTS 4 | HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46935
@@ -265,16 +264,16 @@ BEIN SPORTS 9,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7348
 BEIN SPORTS 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7349
 BEIN SPORTS 11,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7350
 BEIN SPORTS 12,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7351
-BT SPORT 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2590
-BT SPORT 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2591
-BT SPORT 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2592
-BT Sport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47252
-BT Sport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47253
-BT Sport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47254
-BT Sport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47255
-BT Sport 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47256
-BT SPORT 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47257
-BT Sport ESPN ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47258
+BT SPORT 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2590
+BT SPORT 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2591
+BT SPORT 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2592
+BT Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47252
+BT Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47253
+BT Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47254
+BT Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47255
+BT Sport 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47256
+BT SPORT 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47257
+BT Sport ESPN ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47258
 BT SPORT EXTRA 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47259
 BT SPORT EXTRA 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47260
 BT SPORT EXTRA 4,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47261
@@ -290,13 +289,13 @@ RMC Sport Live 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1007
 RMC Sport Live 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1009
 RMC Sport Live 11,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1010
 SKY Sports Cricket UHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2615
-SKY SPORTS F1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2621
-SKY SPORTS MIXᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2626
+SKY SPORTS F1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2621
+SKY SPORTS MIX,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2626
 SKY SPORTS PREMIER LEAGUE,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2631
-Sky Sports 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1365
-Sky Sport Bundesliga 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3289
-Sky Sport Bundesliga 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3291
-Sky Sport Bundesliga 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3293
+Sky Sports 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1365
+Sky Sport Bundesliga 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3289
+Sky Sport Bundesliga 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3291
+Sky Sport Bundesliga 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3293
 FOX SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3020
 FOX SPORTS 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3021
 FOX SPORTS CAROLINAS,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3023
@@ -305,79 +304,78 @@ FOX SPORTS OKLAHOMA,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3029
 FOX SPORTS SAN DIEGO,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3032
 FOX SPORTS SOUTH,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3033
 FOX SPORTS SUN,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3037
-TIVIBU SPOR 1ᴴᴰ(Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31497
-S-SPORT ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31500
-S-SPORT 2ᴴᴰ (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31501
-SMART SPORᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31502
-EUROSPORT 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31505
-EUROSPORT 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31506
-TRT SPOR ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31508
-SPOR SMARTᴴᴰ+,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38814
-Sky Sport Bundesliga 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38996
+TIVIBU SPOR 1(Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31497
+S-SPORT ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31500
+S-SPORT 2 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31501
+SMART SPOR,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31502
+EUROSPORT 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31505
+EUROSPORT 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31506
+TRT SPOR ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/31508
+SPOR SMART+,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38814
+Sky Sport Bundesliga 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38996
 Eurosport 2 FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/40380
 Sky Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44930
 Sky Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44931
-Sky Sport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44932
+Sky Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44932
 Sky SPORT 3 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44933
 Sky SPORT 4 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44934
 Sky SPORT 5 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44935
 Sky SPORT 7 (Live),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44937
-Sky Sport Austriaᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44940
-Sky Sport Austriaᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44941
-SKY Sports Newsᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3780
+Sky Sport Austria,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44940
+Sky Sport Austria,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44941
+SKY Sports News,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3780
 SKY Sports News HQ UK,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47230
 SKY Sports News FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47231
 Sky Sports News FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47231
-SKY Sports Main Eventᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47232
+SKY Sports Main Event,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47232
 SKY SPORTS MAIN EVENT FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47233
 SKY SPORTS PREMIER LEAGUE,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47234
 SKY SPORTS PREMIER LEAGUE,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47235
-SKY SPORTS FOOTBALLᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47236
+SKY SPORTS FOOTBALL,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47236
 SKY Sports Football FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47237
-SKY SPORTS CRICKETᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47238
+SKY SPORTS CRICKET,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47238
 SKY SPORTS CRICKET FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47239
-SKY SPORTS GOLFᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47240
-SKY SPORTS GOLF ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47240
+SKY SPORTS GOLF,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47240
+SKY SPORTS GOLF ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47240
 SKY SPORTS GOLF FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47241
 SKY SPORTS F1 HD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47242
 SKY SPORTS F1 FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47243
 SKY SPORTS NFL FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47244
-SKY SPORTS ARENA ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47245
+SKY SPORTS ARENA ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47245
 SKY SPORTS ARENA FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47246
 SKY SPORTS RACING FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47247
-SKY SPORTS MIX ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47248
+SKY SPORTS MIX ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47248
 SKY SPORTS MIX FHD,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47249
 SKY SPORT ACTION,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47250
 SKY SPORTS BOX OFFICE,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47251
-S-SPORT 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46939
-TIVIBUSPOR-1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46940
-TIVIBUSPOR-2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46941
-TIVIBUSPOR-3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46942
-SPOR SMARTᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46943
-NBA TV ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46944
-EUROSPORT 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46945
-TRT SPORᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46946
-TRT SPORᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46947
-EuroSport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47517
+S-SPORT 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46939
+TIVIBUSPOR-1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46940
+TIVIBUSPOR-2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46941
+TIVIBUSPOR-3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46942
+SPOR SMART,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46943
+NBA TV ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46944
+EUROSPORT 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46945
+TRT SPOR,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46946
+TRT SPOR,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/46947
+EuroSport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47517
 Eurosport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47518
-Eurosport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47519
-Freesportsᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47520
+Eurosport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47519
+Freesports,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47520
 Motorsport TV,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47521
-Motorsport TV ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47522
-PREMIER SPORTS 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47523
-Premier Sports 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47524
+Motorsport TV ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47522
+PREMIER SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47523
+Premier Sports 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47524
 Premier Sports 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47525
 Eir Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47526
 Eir Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47527
-ELEVEN SPORTS 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/974
-ELEVEN SPORTS 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/977
-ELEVEN SPORTS 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/979
-ELEVEN SPORTS 4ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/981
-ELEVEN SPORTS 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/983
-ELEVEN SPORTS 6ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/985
-
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+ELEVEN SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/974
+ELEVEN SPORTS 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/977
+ELEVEN SPORTS 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/979
+ELEVEN SPORTS 4,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/981
+ELEVEN SPORTS 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/983
+ELEVEN SPORTS 6,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/985
+超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+超级体育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
@@ -391,35 +389,35 @@ ELEVEN SPORTS 6ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/985
 超级体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 超级体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 求索,#genre#
-上海纪实ᴴᴰ,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-上海纪实ᴴᴰ,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-北京纪实ᴴᴰ,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-北京纪实ᴴᴰ,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索记录4K,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-求索动物ᴴᴰ,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-求索科学ᴴᴰ,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 越南,#genre#
-VTV1ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+VTV1,https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 VTV1,https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-VTV2ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv02/vtv2@1080p.m3u8
+VTV2,https://drfamaga5qliv.vcdn.cloud/vtv02/vtv2@1080p.m3u8
 VTV2,https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
-VTV3ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+VTV3,https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 VTV3,https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-VTV4ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+VTV4,https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 VTV4,https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
-VTV5ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+VTV5,https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 VTV5,https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-VTV6ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+VTV6,https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 VTV6,https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-VTV7ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+VTV7,https://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 VTV7,https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-VTV8ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+VTV8,https://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 VTV8,https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-VTV9ᴴᴰ,https://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+VTV9,https://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 VTV9,https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 VTC1,https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 VTC2,https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
@@ -437,16 +435,16 @@ VTC13,https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
 VTC14,https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 VTC16,https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 HTV1,https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-HTV2ᴴᴰ,https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+HTV2,https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 HTV Keys,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-HTV7ᴴᴰ,https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
-HTV9ᴴᴰ,https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
+HTV7,https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+HTV9,https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 HTVC Phim,https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 Du Lịch và Cuộc Sống,https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 Gia Đình,https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 Phụ Nữ,https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
-Thuần Việtᴴᴰ,https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+Thuần Việt,https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 Thuần Việt,https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 HTV Thể Thao,https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 FBNC,https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
@@ -462,21 +460,21 @@ Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2
 Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 Fox Life,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 ABC Australia,https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-Love Natureᴴᴰ,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+Love Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 VOV Vietnam Journey,https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 Quốc Hội,https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 QPVN,https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
 ANTV,https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 VNEWS,https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 Nhân Dân TV,https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-An Viênᴴᴰ,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+An Viên,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 NCM BYV10,https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 BTV4 iMOVIE TV,https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
 Viet Teen,https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 SAM CHANNEL,https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-AXNᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+AXN,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 AXN,https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-ARIRANGᴴᴰ,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 ARIRANG,http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 ANIMAX,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 动物星球,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -494,35 +492,35 @@ BLOOMBERG,https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b250
 电影世界,https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 亚洲新闻频道,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 有线新闻网,https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
-Channel Vᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel V,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 Channel V,http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Cartoon Networkᴴᴰ,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+Cartoon Network,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 CBS,http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CINEMAX (Quốc Tế),http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-HBOᴴᴰ,http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+HBO,http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 HBO HITS,http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 HBO FAMILY,http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 HBO,http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 EURO NEWS,http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-FOXᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
+FOX,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 FOX,http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-FOX FAMILY MOVIESᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
+FOX FAMILY MOVIES,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 FOX FAMILY MOVIES,http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-FOX 电影ᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+FOX 电影,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 FOX 电影,http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-FOX LIFEᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+FOX LIFE,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 FOX LIFE,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 法国24,https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 Da Vinci Kids,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 NHK WORLD JAPAN,https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 国家地理高清,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-Nat Geo WILDᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+Nat Geo WILD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 NASA TV,http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-KIXᴴᴰ,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+KIX,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 KBS World,http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
-KBS World (Server 2),https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_ᴴᴰ/kbs_world_1080p/chunks.m3u8
-探索频道ᴴᴰ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+KBS World (Server 2),https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_/kbs_world_1080p/chunks.m3u8
+探索频道,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 探索频道,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 Discovery Asia,http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 DW 新闻,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
