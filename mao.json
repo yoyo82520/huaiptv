@@ -1,6 +1,5 @@
 ﻿{
-"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
-//"spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
+"spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 {"key":"2345_spider","name":"2345影视","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
