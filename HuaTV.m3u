@@ -1,0 +1,981 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://git.io/Jkleu"tvg-shift=0 m3uautoload=2
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16冬奧
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台海外版(粤语)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台海外版(普通话)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2(第2声道)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://rb.gy/vpbeyy" group-title="港澳台",无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台(第2声道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台(第2声道)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="港澳台",ViuTVᴴᴰ
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="港澳台",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="港澳台",ViuTV6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港澳台",Now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港澳台",Now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="港澳台",有线新闻台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+#EXTINF:-1 tvg-name="有线直播新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="港澳台",有线直播新闻台
+http://hkyx.love.sky-media.tk/test/index.php?id=39
+#EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="港澳台",有线财经资讯台
+http://hkyx.love.sky-media.tk/test/index.php?id=38
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="港澳台",有线综合娱乐台
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623762001-1623763081-0bdc7f704e291b3cc65f9ebc85a5a86b-8d93040f6672be2_8ab-03/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台(粤语)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台(普通话)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="港澳台",天映经典(粤语)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="港澳台",天映经典(普通话)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",Animax(第2声道)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="港澳台",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="港澳台",Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台",TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河(粤语)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河(普通话)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="港澳台",TVB功夫台(粤语)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="港澳台",TVB功夫台(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.mo" tvg-name="澳视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳门",澳视
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.mo" tvg-name="澳视" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title= "澳门",澳视
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.mo" tvg-name="澳视" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="澳门" ,澳视
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenMACAU.mo" tvg-name="澳门MACAU" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="澳门",MACAU
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenMACAU.mo" tvg-name="澳门MACAU" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="澳门",MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenTiYu.mo" tvg-name="澳门体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmty.jpg" group-title="澳门",体育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenMACAU.mo" tvg-name="澳门体育" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="澳门",体育
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenWeiXing.mo" tvg-name="澳门卫星" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title ="澳门",卫星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenWeiXing.mo" tvg-name="澳门综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" group-title="澳门",综艺
+http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenWeiXing.mo" tvg-name="澳门综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" group-title="澳门",综艺
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenZiXun.mo" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="澳门",资讯
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenZiXun.mo" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="澳门",资讯
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenZiXun.mo" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="澳门",资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="澳门新闻" tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH2.png" group-title="澳门",新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台",公视
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游
+http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",ANIMAX
+http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="港澳台",纬来综合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="港澳台",八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港澳台",三立台湾
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="港澳台",三立都会
+http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="港澳台",卫视中文
+http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="港澳台",东森综合
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天综合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台",中天娱乐
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="港澳台",东风卫视
+http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" group-title="港澳台",MuchTV
+http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="港澳台",东森戏剧
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="港澳台",八大戏剧
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐
+http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港澳台",纬来戏剧
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="港澳台",龙华戏剧
+http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",龙华日韩
+http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港澳台",龙华偶像
+http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-name="wakuwaku" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Wakuwaku.png" group-title="港澳台",WAKUWAKU JAPAN
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天新闻
+http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS HD
+http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
+http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
+http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻台
+http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-name="CNN新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",CNN新闻
+http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
+#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="港澳台",CNBC新闻
+http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg
+http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHK新闻
+http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台
+http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
+http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
+http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",龙华电影台
+http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
+http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://iptv-pro.github.io/logo/AXN%E5%8F%B0%E6%B9%BE.png" group-title="港澳台",AXN电影
+http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳台",Cinemax
+http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="港澳台",FOXmovies
+http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="港澳台",FOX频道
+http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐
+http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
+http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="港澳台",博斯运动1
+http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="港澳台",博斯运动2
+http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://iptv-pro.github.io/logo/ELEVENSPORTS1.png" group-title="港澳台",ELEVEN SPORTS 1
+http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN SPORTS 2
+http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV-1综合
+http://mail.lacool.tk:8086/rtp/239.93.42.036:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV1综合
+http://mail.lacool.tk:8086/rtp/239.93.0.69:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV1综合
+http://mail.lacool.tk:8086/rtp/239.93.0.58:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV1综合
+http://mail.lacool.tk:8086/rtp/239.93.0.184:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV1综合
+http://mail.lacool.tk:8086/rtp/239.93.1.61:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视ᴴᴰ",CCTV1综合
+http://mail.lacool.tk:8086/rtp/239.93.1.174:5140
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视ᴴᴰ",CCTV2财经
+http://mail.lacool.tk:8086/rtp/239.93.0.110:5140
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视ᴴᴰ",CCTV2财经
+http://mail.lacool.tk:8086/rtp/239.93.0.59:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视ᴴᴰ",CCTV3综艺
+http://mail.lacool.tk:8086/rtp/239.93.0.109:5140
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视ᴴᴰ",CCTV4中文国际
+http://mail.lacool.tk:8086/rtp/239.93.0.60:5140
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视ᴴᴰ",CCTV4中文国际
+http://mail.lacool.tk:8086/rtp/239.93.1.192:5140
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视ᴴᴰ",CCTV-5体育
+http://mail.lacool.tk:8086/rtp/239.93.42.037:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视ᴴᴰ",CCTV-6电影
+http://mail.lacool.tk:8086/rtp/239.93.0.64:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视ᴴᴰ",CCTV7国防军事
+http://mail.lacool.tk:8086/rtp/239.93.1.193:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视ᴴᴰ",CCTV-9纪录
+http://mail.lacool.tk:8086/rtp/239.93.0.2:5140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视ᴴᴰ",CCTV10科教
+http://mail.lacool.tk:8086/rtp/239.93.1.28:5140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视ᴴᴰ",CCTV10科教
+http://mail.lacool.tk:8086/rtp/239.93.0.63:5140
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视ᴴᴰ",CCTV12戏曲
+http://mail.lacool.tk:8086/rtp/239.93.0.65:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视ᴴᴰ",CCTV 13新闻
+http://mail.lacool.tk:8086/rtp/239.93.0.66:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视ᴴᴰ",CCTV16 
+http://mail.lacool.tk:8086/rtp/239.93.42.53:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视ᴴᴰ",湖南卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.88:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视ᴴᴰ",湖南卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.156:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视ᴴᴰ",重庆卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.107:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视ᴴᴰ",重庆卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.196:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视ᴴᴰ",江苏卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.89:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视ᴴᴰ",江苏卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.175:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视ᴴᴰ",浙江卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.124:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视ᴴᴰ",浙江卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.176:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视ᴴᴰ",东方卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.123:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视ᴴᴰ",东方卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.177:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视ᴴᴰ",东方卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.151:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视ᴴᴰ",北京卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.178:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视ᴴᴰ",深圳卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.179:5140
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视ᴴᴰ",天津卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.196:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视ᴴᴰ",湖北卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.197:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视ᴴᴰ",山东卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.229:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视ᴴᴰ",山东卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.168:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视ᴴᴰ",山东卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.198:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视ᴴᴰ",湖北卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.250:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视ᴴᴰ",四川卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视ᴴᴰ",四川康巴卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.41:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视ᴴᴰ",四川卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.169:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视ᴴᴰ",四川卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.128:5140
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视ᴴᴰ",东南卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.43:5140
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视ᴴᴰ",东南卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.42:5140
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视ᴴᴰ",河北卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.132:5140
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视ᴴᴰ",江西卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.134:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视ᴴᴰ",黑龙江卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.183:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视ᴴᴰ",北京卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.180:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视ᴴᴰ",黑龙江卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.231:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视ᴴᴰ",吉林卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.248:5140
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视ᴴᴰ",贵州卫视
+http://mail.lacool.tk:8086/rtp/239.93.0.131:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视ᴴᴰ",安徽卫视
+http://mail.lacool.tk:8086/rtp/239.93.1.106:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://iptv.tvfix.org/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://iptv.tvfix.org/hls/gstv.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://iptv.tvfix.org/hls/nmtv.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://iptv.tvfix.org/hls/nxtv.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://iptv.tvfix.org/hls/sxrtv.m3u8
+#EXTINF:-1 tvg-name="陜西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陜西卫视
+http://iptv.tvfix.org/hls/sxtv.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://iptv.tvfix.org/hls/xjtv.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://iptv.tvfix.org/hls/yntv.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://iptv.tvfix.org/hls/qhtv.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://iptv.tvfix.org/hls/bttv.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://iptv.tvfix.org/hls/xmtv.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://iptv.tvfix.org/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6Pzkcy.png"group-title="体育", Astro Arena
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PzQC0.png"group-title="体育", Astro Arena 2
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVWzk.png"group-title="体育", Astro SuperSport
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6708 
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVs4l.jpg"group-title="体育", Astro SuperSport 2 
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6710 
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVCnv.png"group-title="体育", Astro SuperSport 3 
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6711 
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVvNW.png"group-title="体育", Astro SuperSport 4 
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6Pzkcy.png"group-title="体育", Astro Arena
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6707
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVWzk.png" group-title="体育",Astro Supersport HD
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVs4l.jpg" group-title="体育",Astro Supersport 2 HD
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVCnv.png" group-title="体育",Astro Supersport 3 HD
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVvNW.png" group-title="体育",Astro Supersport 4 HD
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PzQC0.png" group-title="体育",Astro Supersport 5 HD
+http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 1
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6629
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 1
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6630
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6631
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6632
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 3
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6633
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports Europ" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport Europe 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6634
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports Europ" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport Europe 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6635
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport eXtra 1 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6636
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",,BT Sport eXtra2 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6637
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",,BT Sport eXtra3 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6638
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 4" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport eXtra4 
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6639
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 1 
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 1
+https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
+https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Premium 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 1
+#http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Premium 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 2 
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Premium 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 1
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 2
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/729
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="体育", NBA TV
+http://84.22.33.214:80/nbatv/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭电影
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://mail.lacool.tk:8086/rtp/239.93.42.5:5140
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://mail.lacool.tk:8086/rtp/239.93.42.6:5140
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://mail.lacool.tk:8086/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实",北京冬奥纪实
+http://iptv.tvfix.org/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实",北京纪实高清
+http://mail.lacool.tk:8086/rtp/239.93.0.152:5140
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="纪实",求索纪录
+http://mail.lacool.tk:8086/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实高清
+http://mail.lacool.tk:8086/rtp/239.93.0.130:5140
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实",上海纪实
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实",纪实人文高清
+http://mail.lacool.tk:8086/rtp/239.93.1.137:5140
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实",纪实人文标清
+http://mail.lacool.tk:8086/rtp/239.93.1.154:5140
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name=" beIN Sports NEWS ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="beIN Sports", beIN Sports NEWS ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9152
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports NEWS HEVC " tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="beIN Sports", beIN Sports NEWS HEVC 
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92512
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name=" beIN Sports" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="beIN Sports", beIN Sports
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9156
+#EXTINF:-1 tvg-id="beINSports4KAr.qa" tvg-name=" BEIN SPORT 4K " tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest/scale-to-width-down/220?cb=20190818174249&path-prefix=fr" group-title="beIN Sports", BEIN SPORT 4K 
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30750
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="beIN Sports", beIN Sports HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92511
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32008
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9147
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30756
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39224
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32007
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9148
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9149
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30757
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39225
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name=" beIN Sports PREMIUM 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32006
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9151
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30758
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39226
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32015
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9131
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32146
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name=" beIN Sports 1 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30749
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28265
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32014
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9134
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9135
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name=" beIN Sports 2 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30751
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28266
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32013
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ" tvg-logo=" http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9136
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9137
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name=" beIN Sports 3 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30752
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28267
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32012
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9138
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/103764
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30755
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28268
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32011
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9140
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9141
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name=" beIN Sports 5 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30754
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28269
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32010
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9142
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9143
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name=" beIN Sports 6 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30759
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28270
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32009
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9144
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9145
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name=" beIN Sports 7 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ* 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30760
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ* HEVC
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28271
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9153
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9154
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9155
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 1 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="beIN Sports", beIN Sports XTRA 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/119957
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 2 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="beIN Sports", beIN Sports XTRA 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/119958
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124099
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124097
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124098
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="beIN FH265",BEIN SPORT 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83082
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="beIN FH265",BEIN SPORT 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83081
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="beIN FH265",BEIN SPORT 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83080
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83079
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN FH265",BEIN SPORT MAX 5
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83077
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 6
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83076
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 7
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83075
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 8
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83078
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 9
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83074
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 10
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83073
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" tvg-logo="" group-title="beIN FH265",MULTISPORTS 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83091
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="" group-title="beIN FH265",MULTISPORTS 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83092
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="" group-title="beIN FH265",MULTISPORTS 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83093
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="" group-title="beIN FH265",MULTISPORTS 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83094
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="" group-title="beIN FH265",MULTISPORTS 5
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83095
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" tvg-logo="" group-title="beIN FH265",MULTISPORTS 6
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83096
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL+ SPORT
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39203
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL SPORT ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15191
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/canalsport.png" group-title="FRANCE SPORT",CANAL+ SPORT ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9326
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL+ SPORT ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51166
+#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="CANAL+ LIGUE 1 ᴴᴰ*" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FimRoww_image-result-for-la-ligue-1-logo-ligue%2F&psig=AOvVaw0nYrA7uXZxHF0ITlKDSEBP&ust=1613386009982000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDc7NOZ6e4CFQAAAAAdAAAAABAD" group-title="FRANCE SPORT",CANAL+ LIGUE 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108268
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",CANAL+ PREMIER LEAGUE ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125118
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ*" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",CANAL+ PREMIER LEAGUE ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/115017
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="CANAL+ TOP14 ᴴᴰ*" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT",CANAL+ TOP14 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108537
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw8QDw8PDw8VFhAPFQ8PDxUOFRUWFhUVFRcYHSggGB0lHhYVITMhJikrLi4xFx8zOzMsNygtLisBCgoKDg0OGBAQGi0mHiYtLysuKystLSstLS0tLystKy0tLSsxKy0tKysrKy4tLS0tLS0tLSstKystLS0tLSstLf/AABEIALcBEwMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQQFBgcIAwL/xABQEAABAwIDAwMOCwUGBQUAAAABAAIDBBEFEiEGEzEHIkEUFTJRU1RhcXKBkZOx0QgjM0JSdIKSocHSJTVDYrMXY4Oyw+IWVXOi8SREo8Lh/8QAGgEBAQADAQEAAAAAAAAAAAAAAAECAwQFBv/EADwRAAIBAgMDCQcCBQQDAAAAAAABAgMRBBIxBSGBEzJBUVJxkaHRFCJCYbHB8FPhBhUzgpIkYqLxIzRD/9oADAMBAAIRAxEAPwDby3nGEAQBCgIAhAgCFCAIQIQIUICEISgCFCAIQlDIhAEIEIShkQgCAIAgCECAIQICEKShUEAQBCWJQoQBAEAQEIAhAoAFSAIVBChCEIQlChCᴴᴰEIZBAEAQgUAVKEDF0MQhQgCAIAgCAICUKEBCAICUAQEIAgJQBAEBCEYCBEoUhAEIEIEKEAQhKGQQBAQgChAqEEKFCBUBCBAEMggCAIAgBQEoAgCAIAUIQEBKFCAICFCEqlIQgQoQgQgQEhCkIQlDIhAEIEKSgCAhAEAQgQBAEKEIShSEAQEoCEIShQgCAID5ke1oLnENaBcucQ1oHhJ4ICm650/fEHrI/epdFsx1zp++IPWR+9W6FmOudP3xB6yP3pdCzHXOn74g9ZF71LoWfUOudP3xB6yP3pdEsx1zp++IPWRe9LoWY650/fEHrI/el0WzHXOn74g9ZH71boWY650/fEHrI/el0TK+odc6fviD1kXvUuhZjrnT98Qesi96XQs+odc6fviD1kfvS6GV9Q650/fEHrI/el0WzHXOn74g9ZH70uiWY650/fEHrI/el0LMdc6fviD1kfvS6LZjrnT98Qesj96XJZjrnT98Qesj96XRbMdc6fviD1kfvS6FmOudP3xB6yP3pdCzHXOn74g9ZH70uhZjrnT98Qesj96XQsx1zp++IPWR+9W6FmOudP3xB6yP3qXRLM94ZmPGZj2vbe12EOF+1cKoHogIQBASgCAIAgCAIDHOUb9z4l9Vk/JSWhlDnI5RWk6QgL/AIVsVidW0Pp6CoewgEPyFjCD0tc6wPmQDFNicUpWl89BUsYASXhjnsA8Lm3A86AsCA+mMLiGtBc5xAAGpJPAAdKAq+tNT3tP6uT3ICkewtJa4Frmkgg6EEcQR0ICGtJIABJJsANST2ggKrrXUd7zerk9yApEB6wU75LiNj3kC5DAXEDw2QEzUsjBd8b2C9rua5ov2tUB4oD3p6KWQExxSSAcSxrngHw2CA+psPnjbmfDKxo+c9j2t9JCApkB709HLLcxxSSAccjXPt47BAKijlisZIpIweBe1zL+K4QHggPajpJJ3tihjfNK++WOJrpJHWFzZrdToCfMgLlNsriLGue/Dq1jGNLnPdT1DWtYBcuJLbAAa3QFnQBAdIchn7mZ9ZqPa1bIaHPU5xsBZmsICUKEAQBAEAQgQpjnKN+58S+qyKS0Moc5HKK0nSdDcj/JlDBBFiFdEJaqUNfHFILshjOrDlPF50Nzw04EEoDY+O7SUVAAayqip818rXu57gOJawc53mCEKHB9vcKrHiOnr4XSONgxxdE9x7TRIAXHxIU515ZJIzjlaIo2RtYY2ndgNDpBG0vcbdOYnXwIDJ/g97Lb+rkxKVt4qPmR34GqeNT9lp9L2noQHQ6EOV+W3Dep8bqiBZtQ2KZv2mgOP32vQpbeS6j32NYay17VLH+qBk/+iA66QhzPy5bIdQ13VcTbU1cXO04MqeMjfADfMPG4dCFMo+DTRm2JTngTTxjxjO53tagKz4SlZaloIL/KVEklv+mzL/qoDQTGlxAAJJIAA1JJ4ABAdc8m2zAwrDYKYgb5w3kxHTUPAzC/TlADfsoBynYd1Vg2IRWuRTukAHHPFaUW87EIciIU6M+DnRlmGVEpHy1Y63hYyNg9pcgMe+EtV3lw6C/Yx1EhHluY0H/sd6UBpRAZpyN/v7D/AC5v6EiA6V21/deJfUKz+i9CHGyFCA6Q5DP3Mz6zUe1q2w0NFTU2CsjWEAQBAEAUAVAQgQpjnKN+58S+qyfkpLQyhzkczbKULanEKGncLsmq6djh/I6Rod+BK0nSdlTSBjHOPBjSbDtAXQhxltFjU1fVTVdQ4ukleTYm4a35rG9oAWA8SFLagKiKOWpmaxuaWeeRrRc5nvleQALniSSEB1/sfgMeF4fBSNI+JjvI/gHSnnSP16Lk+IWHQᴴᴰGOS3bTrrU4xqcjKqN8IPezm7tth0fJBxHbkKFMK+ErhtpaCrA7OOWFzvIIewf98noQGOcgNGJMbY8/wACmqJB4yBF/qFAdAbXbSRYZBHUTfJuqYYnH6LZDYv+yLnzFCHxtrs7HitBNSOIvI3NHJxDJhqx48HQe2Ce2gMT5BcIkpMNnbMwsldX1Ac02u0xhkRafE5j0KYJ8JGtzV9HB0RUhf55Zᴴᴰ2Rj0oC2chOyvVuI9VSNvT0GV+vB1Sfkh5rF32W9tAba5Z9qXYbhpETstTVv3UZHFreMj/ADN08bwgMzo52VVNHINY6iFjvGyRoPsKEOMcVojT1E9O7V0E0sZ8pji0+xCnUXIvRmHAqEEWdIJpD4nyvLT93KgNPfCBrN5jJYD8hSwMI7ROaT2SBAZpyH7L0FXhRlqaKnnk6qmbnljY92UBlhcjhqUBsmg2Qw2nlbNBQU0MrL5ZI42Ne0kEGxA00JHnQᴴᴰ6iBkrHxyNa+ORrmuY4BzXMcLOaQeIIJFkBYv+BsJ/5ZReoh9yA545acOgpsYlip4Y4IᴴᴰARHE1sbLlupsNEKbW5C/3Mz6zUe1q2w0NFTU2AsjWEAQBAEASwCAIAgMc5Rv3PiX1WT8lJaGUOcjmHZ6vFLWUlSb2p6mCUgcSGPa4j8FpOk7OjkZLGHNIfHIwEEatcxwuCPAQUIcubccmNfQVEm5p5amkc8mOWBrpSGHUNkDblpHC5Fj0IUsMWx2IuimnNFPᴴᴰBG575JmGFgY0XNi+2Y+AXKAz/4Pmy3VFXJiMrbxUfNjvwNU4an7LT6XtPQgN/4hRsqIZYJQTFMxzHgOcwljhZwzNIIuD0FCFk2Z2Hw/DJHy0UBhfIzI472eQFtweD3EcRxQpjfL5h2+wV8lrmlnhk042J3R/qX8yAwv4NNJefEZrdᴴᴰBGD/wBRz3H+mEBe/hJVmWiooL6yVTn28EcZb/qBAXDkI2u6toeopnXqaEAC/F9JwYfs9h4g3toDZ7WgXsALknTTU9KEOXeW+pM+PVDGgu3TaeJoGpJ3bXWA8p5Qpvvk32YGFYbBTEDfOG8mI6ah4GYX6cos0eBoQh7bT7E4fij45K2F0zomlrfjZ42gE3OjHAXOmvgHaQpecMoI6aGKnhaWxQsaxjSXOIY0WAu4knTtoQ5c5Z8O6nxyssLNmMczfDvGAuP386FOltkqLqfD6GDpipKdp8oRtB/G6EOcuU/Ba+qxmvmjoax7DNla9sE7mubG1sYIIbYjm8UKW/CNtMYwaM0UT3UoDzIYpoI84c8DX4xmbUAIDM+TblLxauxajpampa+CV0oc0RU7LgRPcNWtBGoᴴᴰtIDdu09W+CgrZ4jlkhpKmRjiA60jI3OabHQ6gIQ5s/tixzvxvqKX9CFMV2hx2pxCd1TVyCSZzWtLg1jBlaLAWaAEBv3kL/czPrNR7WrbDQ0VNTYKyNZF0AugClwTdLix53S5RmVILqXKLqoGO8oh/ZGI/VZFjLQsNUcqLUdJtfku5Wjh8baKva+WkbpHKyzpYQT2JBPPZ09sagXFgANy0XKFg8zQ9uJUrQRwlkbA7ztksR6EIYXyvcoGHyYXU0lLWRz1FRu2gQ3kaIw9rnkvAyjQEcelCntsXt7s/hlBT0bK4ExM57hBV8+d2sjvk+lxNvBYdCA1lymcoU1diD30VVPFSRNbHHunywB4GrpC0EG5JPHWwCAs2zO2dZT1tLPLW1T4o6iJ0jHyzSNMWYZwWk6826A3btZyk4HWUFZSiuBdPTTMb8TVW3hach7D6VkBhvIltlhmGUlU2tqdzNNUAhu7nkvE1jQ03Y0jiX6IC08uG19Jik1H1FLvooIpbuySR2ke5txZ4B4MHpQGG7GbRSYZXQVkdzu3WewfPᴴᴰo9h8Y4X4EA9CA6Rbys4GQD1eBcDQxVN/8iA05s/i+HTbR1WJV9Q1lLHUzSw5mSv3jw+0GjWkgAWdrbVoQGzdrOV7DWUNQaGq31WYy2JojnbaR2me7mgc2+bzIDnz/iKu79q/XTfqQG2+RvlGpqWlqIcUrXh/VAfG6bfzkscwAgEB1gCy9v5kBYeWXGsNxGuoailqRKwx7qZzWytyRtkuHEOaCdHv4X7FAbdHKvgY0Fe2w/uqn9CAf2sYH3+31VT+hAc9cpuMxV+L1lVA/eQyOjDH2c0FrI2MuA4AjVpQEcmeKw0eLUdTUv3cETpS59nOsDE9o0aCTqR0IDeO1HKjg09BXQxVuaSajqWMbuqkXkfE5rRcssLkjigOZ0AQHR3Icf2Mz6zUe1q2R0NFTUz+6phYXQtᴴᴰBYXQWJugseWZCDMrcEXUYJzKpgx3lDP7IxH6rIsZaGUNUcsLWdAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAdF8iB/YzPrFR7WrOOhpnqZ9dZGAugJuguLqXKRdAeWZUxGZAMyAnMgLVtS7/0NXpm+Ifppr4NVoxP9KXcduzf/AG6e6+81Dm/uD/8AF714Vl2/qfd3l+n9BmPcP6XvSy7f1F5fp/QXPcP6fvSy7f1F5fp/QXPcPxjS0e39R736fmhc9wHpjS0e39R736a8ULnuA9Manu9t+Y979NeKHO7gPTGr7vbY9/8ATXivQc7uDfSxPd7bHv8A6a8V6E87uDfSz3J7vaY9/sLx/Yjndxb6We5Pd7THv9heP7Dndxb6W+5Pd7T/ADiLT7C8f2FndxZ95vuT3O0xafYXj+ws7uLPvN/Sl4dp/nEWn2I+P7Czu4s+8P0peHaf5xFqnYj4/sLO7jH94fpS8O0/ziLVOxH84Cz+4x/eH6UvDtP84i1TsR/OAyv7lH97/al4dp/nEZanYj+cBlf3KL73+1Lw7T/OIy1OzH84DK/uUXp/2peHaYy1OzH84DK/uUXp/wBqZodbGWp2Y/nA+4aeV7msZBG97jYNbdzie0AG6qxyydk5GM3KEXKSikvzqK//AIcxD/l7/Vy/oW3kJdUvzicvttHtQ/OBRyUU7ZN06naJbgbsh+8zHgMuW91raSll96/UdCm3DlFky9fQTVYfURW3tO2PNe2cPaDbjY5dUlFR1zEp1OU5mRmytgbjD4rhrTnm0bw7N3gXr4NrkVb56nyW2L+1yvbRadxkV11HljMgIzqWAzKgjMgPjMqYi6FGZARmQhbNp3HqKqtYncvsDoLrRibclK/Ud2zb+107a3NT5pvoR/ed+leDal1vyPu71+qPmbDwDYFlTSwTyTyMfLGHFrAwtF+FiRfhZd1PAwnFSu9/ceFiNtVqVWUMq3O3SU21mxUdFSPqI53ve10bWtkDQwlzgDcjXhc+ZYVsJTpRzNvyNmD2rXxNVU8sVr19HEodk9iqmtAmmeyCmPAta50rx05QTZo/mN/F0pRwkKkc29GWN2tPDzyRs3062RmR5OaLLbPUX+lnZf0ZbLo9gpfPxPO/neKvfd4GE7W7G1NCN7HKyamuBmLHCRhPAPAdYg8Mw9AXNXw0KSzWbXeengdpTxMsjaUu7XzGxOyxxDfmWcxiLdAGNg1Ls175ieFh6Uw1CnWvuat8y7Rx1fCOKTTvfo/cySXkvbY5K2QO6C6ONzfQCPaun2Gl8zzf55iOpeBguP4DU0MxhllY64DmvazmuYbi+p0OmoXDWhGlLK4+Z7mDryxVPPGferLcXPYzZN+IGYyVD444gwBzGR3L3X051+AH4hbsNShWu3HT5nLtLGVcJlUZXb+XQU+2Gzb6CdkTah72PiDg5zIwc2Yhw0FtLD0rDEwhSkko38TZs/EVMVTcpTs07dBctkthH10BnlqpYml5DMjIecBo5xu06X08xW/D0IVI5pRscmP2jUw9Tk4Svu36fYtGNbPmnr+om1MjgZIGhzhCHfGBvQG2+d+C01IKNXIobt3WdWHxEqmG5aU7Oz3bugu22OxUeH07ZhWzvL5WsDZBA1urXOPBvaat2IoRpxvGN2ceA2hUxFTLUlZWve/qWbZLA219V1OaqRo3T3kxmIus0tHC3bcFqoU3OVpQsu468diY0KWeE7u9rX9Cs2j2WipK2lo21cz3VG67Mxhw3kmQWAGvArZVouM4xjᴴᴰ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ᴴᴰ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ᴴᴰzzKGQzIBmQDMgKbEYjLDJG2wc9hAvcC/hWqtB1KcorpOnB1lQrwqS0TuY7HsvKeyljHiDne5eatmy6ZI+il/EUPhpvi7epUR7Kt+dM4+S0D2krYtmw6ZM5p/xDV+GCXfd+hUx7M044mR3jcB7AtiwFFa38TmntzFy0aXD1uVEeB0zf4QPlF7vaVtWEor4Uc09qYuWtR8N30KmOihb2MMY+y33LdGnBaJHNPEVp86bfFlS2w4ADxaLI1aglCDMlwLpcE3QC6Ai6twLpcC6lwTdW4sRdLiwzKkF0FhmQDMgGZATmQDMgF0AzICLoBmQC6AXQEZkB83WJkLoBdALoBdALoBdALoBdALoQXQougF0ILoUXQC6AXQC6AXQC6AXQC6EF0KRdCC6AXQC6qAzIBmVIMyAZkAzIBmUAuqBdCnxmWJRmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgIulwLpclhmVJYZkLYZkFiLpcE5kAzIDzzKFGZAMyAZkAzICMyAnMgGZAMyFGZCDMgGZARmQE5kBGZAMyWAzK2AzJYgzJYozJYDMoBmQDMgGZATmQDMgGZAMyAjMlgMypBmQDMgGZAMyWAzKg88yxAzIBdALoBdALoCMyAnMgGZAMyAZkBGZATdALoBdALoBdALqgXQC6AXQC6AXUAuqBdALoBdQC6AXVAuoBdALqgXQC6AXQH/2Q==" group-title="FRANCE SPORT",CANAL+ FORMULA1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125119
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ*" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw8QDw8PDw8VFhAPFQ8PDxUOFRUWFhUVFRcYHSggGB0lHhYVITMhJikrLi4xFx8zOzMsNygtLisBCgoKDg0OGBAQGi0mHiYtLysuKystLSstLS0tLystKy0tLSsxKy0tKysrKy4tLS0tLS0tLSstKystLS0tLSstLf/AABEIALcBEwMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQQFBgcIAwL/xABQEAABAwIDAwMOCwUGBQUAAAABAAIDBBEFEiEGEzEHIkEUFTJRU1RhcXKBkZOx0QgjM0JSdIKSocHSJTVDYrMXY4Oyw+IWVXOi8SREo8Lh/8QAGgEBAQADAQEAAAAAAAAAAAAAAAECAwQFBv/EADwRAAIBAgMDCQcCBQQDAAAAAAABAgMRBBIxBSGBEzJBUVJxkaHRFCJCYbHB8FPhBhUzgpIkYqLxIzRD/9oADAMBAAIRAxEAPwDby3nGEAQBCgIAhAgCFCAIQIQIUICEISgCFCAIQlDIhAEIEIShkQgCAIAgCECAIQICEKShUEAQBCWJQoQBAEAQEIAhAoAFSAIVBChCEIQlChCᴴᴰEIZBAEAQgUAVKEDF0MQhQgCAIAgCAICUKEBCAICUAQEIAgJQBAEBCEYCBEoUhAEIEIEKEAQhKGQQBAQgChAqEEKFCBUBCBAEMggCAIAgBQEoAgCAIAUIQEBKFCAICFCEqlIQgQoQgQgQEhCkIQlDIhAEIEKSgCAhAEAQgQBAEKEIShSEAQEoCEIShQgCAID5ke1oLnENaBcucQ1oHhJ4ICm650/fEHrI/epdFsx1zp++IPWR+9W6FmOudP3xB6yP3pdCzHXOn74g9ZF71LoWfUOudP3xB6yP3pdEsx1zp++IPWRe9LoWY650/fEHrI/el0WzHXOn74g9ZH71boWY650/fEHrI/el0TK+odc6fviD1kXvUuhZjrnT98Qesi96XQs+odc6fviD1kfvS6GV9Q650/fEHrI/el0WzHXOn74g9ZH70uiWY650/fEHrI/el0LMdc6fviD1kfvS6LZjrnT98Qesj96XJZjrnT98Qesj96XRbMdc6fviD1kfvS6FmOudP3xB6yP3pdCzHXOn74g9ZH70uhZjrnT98Qesj96XQsx1zp++IPWR+9W6FmOudP3xB6yP3qXRLM94ZmPGZj2vbe12EOF+1cKoHogIQBASgCAIAgCAIDHOUb9z4l9Vk/JSWhlDnI5RWk6QgL/AIVsVidW0Pp6CoewgEPyFjCD0tc6wPmQDFNicUpWl89BUsYASXhjnsA8Lm3A86AsCA+mMLiGtBc5xAAGpJPAAdKAq+tNT3tP6uT3ICkewtJa4Frmkgg6EEcQR0ICGtJIABJJsANST2ggKrrXUd7zerk9yApEB6wU75LiNj3kC5DAXEDw2QEzUsjBd8b2C9rua5ov2tUB4oD3p6KWQExxSSAcSxrngHw2CA+psPnjbmfDKxo+c9j2t9JCApkB709HLLcxxSSAccjXPt47BAKijlisZIpIweBe1zL+K4QHggPajpJJ3tihjfNK++WOJrpJHWFzZrdToCfMgLlNsriLGue/Dq1jGNLnPdT1DWtYBcuJLbAAa3QFnQBAdIchn7mZ9ZqPa1bIaHPU5xsBZmsICUKEAQBAEAQgQpjnKN+58S+qyKS0Moc5HKK0nSdDcj/JlDBBFiFdEJaqUNfHFILshjOrDlPF50Nzw04EEoDY+O7SUVAAayqip818rXu57gOJawc53mCEKHB9vcKrHiOnr4XSONgxxdE9x7TRIAXHxIU515ZJIzjlaIo2RtYY2ndgNDpBG0vcbdOYnXwIDJ/g97Lb+rkxKVt4qPmR34GqeNT9lp9L2noQHQ6EOV+W3Dep8bqiBZtQ2KZv2mgOP32vQpbeS6j32NYay17VLH+qBk/+iA66QhzPy5bIdQ13VcTbU1cXO04MqeMjfADfMPG4dCFMo+DTRm2JTngTTxjxjO53tagKz4SlZaloIL/KVEklv+mzL/qoDQTGlxAAJJIAA1JJ4ABAdc8m2zAwrDYKYgb5w3kxHTUPAzC/TlADfsoBynYd1Vg2IRWuRTukAHHPFaUW87EIciIU6M+DnRlmGVEpHy1Y63hYyNg9pcgMe+EtV3lw6C/Yx1EhHluY0H/sd6UBpRAZpyN/v7D/AC5v6EiA6V21/deJfUKz+i9CHGyFCA6Q5DP3Mz6zUe1q2w0NFTU2CsjWEAQBAEAUAVAQgQpjnKN+58S+qyfkpLQyhzkczbKULanEKGncLsmq6djh/I6Rod+BK0nSdlTSBjHOPBjSbDtAXQhxltFjU1fVTVdQ4ukleTYm4a35rG9oAWA8SFLagKiKOWpmaxuaWeeRrRc5nvleQALniSSEB1/sfgMeF4fBSNI+JjvI/gHSnnSP16Lk+IWHQᴴᴰGOS3bTrrU4xqcjKqN8IPezm7tth0fJBxHbkKFMK+ErhtpaCrA7OOWFzvIIewf98noQGOcgNGJMbY8/wACmqJB4yBF/qFAdAbXbSRYZBHUTfJuqYYnH6LZDYv+yLnzFCHxtrs7HitBNSOIvI3NHJxDJhqx48HQe2Ce2gMT5BcIkpMNnbMwsldX1Ac02u0xhkRafE5j0KYJ8JGtzV9HB0RUhf55Zᴴᴰ2Rj0oC2chOyvVuI9VSNvT0GV+vB1Sfkh5rF32W9tAba5Z9qXYbhpETstTVv3UZHFreMj/ADN08bwgMzo52VVNHINY6iFjvGyRoPsKEOMcVojT1E9O7V0E0sZ8pji0+xCnUXIvRmHAqEEWdIJpD4nyvLT93KgNPfCBrN5jJYD8hSwMI7ROaT2SBAZpyH7L0FXhRlqaKnnk6qmbnljY92UBlhcjhqUBsmg2Qw2nlbNBQU0MrL5ZI42Ne0kEGxA00JHnQᴴᴰ6iBkrHxyNa+ORrmuY4BzXMcLOaQeIIJFkBYv+BsJ/5ZReoh9yA545acOgpsYlip4Y4IᴴᴰARHE1sbLlupsNEKbW5C/3Mz6zUe1q2w0NFTU2AsjWEAQBAEASwCAIAgMc5Rv3PiX1WT8lJaGUOcjmHZ6vFLWUlSb2p6mCUgcSGPa4j8FpOk7OjkZLGHNIfHIwEEatcxwuCPAQUIcubccmNfQVEm5p5amkc8mOWBrpSGHUNkDblpHC5Fj0IUsMWx2IuimnNFPᴴᴰBG575JmGFgY0XNi+2Y+AXKAz/4Pmy3VFXJiMrbxUfNjvwNU4an7LT6XtPQgN/4hRsqIZYJQTFMxzHgOcwljhZwzNIIuD0FCFk2Z2Hw/DJHy0UBhfIzI472eQFtweD3EcRxQpjfL5h2+wV8lrmlnhk042J3R/qX8yAwv4NNJefEZrdᴴᴰBGD/wBRz3H+mEBe/hJVmWiooL6yVTn28EcZb/qBAXDkI2u6toeopnXqaEAC/F9JwYfs9h4g3toDZ7WgXsALknTTU9KEOXeW+pM+PVDGgu3TaeJoGpJ3bXWA8p5Qpvvk32YGFYbBTEDfOG8mI6ah4GYX6cos0eBoQh7bT7E4fij45K2F0zomlrfjZ42gE3OjHAXOmvgHaQpecMoI6aGKnhaWxQsaxjSXOIY0WAu4knTtoQ5c5Z8O6nxyssLNmMczfDvGAuP386FOltkqLqfD6GDpipKdp8oRtB/G6EOcuU/Ba+qxmvmjoax7DNla9sE7mubG1sYIIbYjm8UKW/CNtMYwaM0UT3UoDzIYpoI84c8DX4xmbUAIDM+TblLxauxajpampa+CV0oc0RU7LgRPcNWtBGoᴴᴰtIDdu09W+CgrZ4jlkhpKmRjiA60jI3OabHQ6gIQ5s/tixzvxvqKX9CFMV2hx2pxCd1TVyCSZzWtLg1jBlaLAWaAEBv3kL/czPrNR7WrbDQ0VNTYKyNZF0AugClwTdLix53S5RmVILqXKLqoGO8oh/ZGI/VZFjLQsNUcqLUdJtfku5Wjh8baKva+WkbpHKyzpYQT2JBPPZ09sagXFgANy0XKFg8zQ9uJUrQRwlkbA7ztksR6EIYXyvcoGHyYXU0lLWRz1FRu2gQ3kaIw9rnkvAyjQEcelCntsXt7s/hlBT0bK4ExM57hBV8+d2sjvk+lxNvBYdCA1lymcoU1diD30VVPFSRNbHHunywB4GrpC0EG5JPHWwCAs2zO2dZT1tLPLW1T4o6iJ0jHyzSNMWYZwWk6826A3btZyk4HWUFZSiuBdPTTMb8TVW3hach7D6VkBhvIltlhmGUlU2tqdzNNUAhu7nkvE1jQ03Y0jiX6IC08uG19Jik1H1FLvooIpbuySR2ke5txZ4B4MHpQGG7GbRSYZXQVkdzu3WewfPᴴᴰo9h8Y4X4EA9CA6Rbys4GQD1eBcDQxVN/8iA05s/i+HTbR1WJV9Q1lLHUzSw5mSv3jw+0GjWkgAWdrbVoQGzdrOV7DWUNQaGq31WYy2JojnbaR2me7mgc2+bzIDnz/iKu79q/XTfqQG2+RvlGpqWlqIcUrXh/VAfG6bfzkscwAgEB1gCy9v5kBYeWXGsNxGuoailqRKwx7qZzWytyRtkuHEOaCdHv4X7FAbdHKvgY0Fe2w/uqn9CAf2sYH3+31VT+hAc9cpuMxV+L1lVA/eQyOjDH2c0FrI2MuA4AjVpQEcmeKw0eLUdTUv3cETpS59nOsDE9o0aCTqR0IDeO1HKjg09BXQxVuaSajqWMbuqkXkfE5rRcssLkjigOZ0AQHR3Icf2Mz6zUe1q2R0NFTUz+6phYXQtᴴᴰBYXQWJugseWZCDMrcEXUYJzKpgx3lDP7IxH6rIsZaGUNUcsLWdAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAdF8iB/YzPrFR7WrOOhpnqZ9dZGAugJuguLqXKRdAeWZUxGZAMyAnMgLVtS7/0NXpm+Ifppr4NVoxP9KXcduzf/AG6e6+81Dm/uD/8AF714Vl2/qfd3l+n9BmPcP6XvSy7f1F5fp/QXPcP6fvSy7f1F5fp/QXPcPxjS0e39R736fmhc9wHpjS0e39R736a8ULnuA9Manu9t+Y979NeKHO7gPTGr7vbY9/8ATXivQc7uDfSxPd7bHv8A6a8V6E87uDfSz3J7vaY9/sLx/Yjndxb6We5Pd7THv9heP7Dndxb6W+5Pd7T/ADiLT7C8f2FndxZ95vuT3O0xafYXj+ws7uLPvN/Sl4dp/nEWn2I+P7Czu4s+8P0peHaf5xFqnYj4/sLO7jH94fpS8O0/ziLVOxH84Cz+4x/eH6UvDtP84i1TsR/OAyv7lH97/al4dp/nEZanYj+cBlf3KL73+1Lw7T/OIy1OzH84DK/uUXp/2peHaYy1OzH84DK/uUXp/wBqZodbGWp2Y/nA+4aeV7msZBG97jYNbdzie0AG6qxyydk5GM3KEXKSikvzqK//AIcxD/l7/Vy/oW3kJdUvzicvttHtQ/OBRyUU7ZN06naJbgbsh+8zHgMuW91raSll96/UdCm3DlFky9fQTVYfURW3tO2PNe2cPaDbjY5dUlFR1zEp1OU5mRmytgbjD4rhrTnm0bw7N3gXr4NrkVb56nyW2L+1yvbRadxkV11HljMgIzqWAzKgjMgPjMqYi6FGZARmQhbNp3HqKqtYncvsDoLrRibclK/Ud2zb+107a3NT5pvoR/ed+leDal1vyPu71+qPmbDwDYFlTSwTyTyMfLGHFrAwtF+FiRfhZd1PAwnFSu9/ceFiNtVqVWUMq3O3SU21mxUdFSPqI53ve10bWtkDQwlzgDcjXhc+ZYVsJTpRzNvyNmD2rXxNVU8sVr19HEodk9iqmtAmmeyCmPAta50rx05QTZo/mN/F0pRwkKkc29GWN2tPDzyRs3062RmR5OaLLbPUX+lnZf0ZbLo9gpfPxPO/neKvfd4GE7W7G1NCN7HKyamuBmLHCRhPAPAdYg8Mw9AXNXw0KSzWbXeengdpTxMsjaUu7XzGxOyxxDfmWcxiLdAGNg1Ls175ieFh6Uw1CnWvuat8y7Rx1fCOKTTvfo/cySXkvbY5K2QO6C6ONzfQCPaun2Gl8zzf55iOpeBguP4DU0MxhllY64DmvazmuYbi+p0OmoXDWhGlLK4+Z7mDryxVPPGferLcXPYzZN+IGYyVD444gwBzGR3L3X051+AH4hbsNShWu3HT5nLtLGVcJlUZXb+XQU+2Gzb6CdkTah72PiDg5zIwc2Yhw0FtLD0rDEwhSkko38TZs/EVMVTcpTs07dBctkthH10BnlqpYml5DMjIecBo5xu06X08xW/D0IVI5pRscmP2jUw9Tk4Svu36fYtGNbPmnr+om1MjgZIGhzhCHfGBvQG2+d+C01IKNXIobt3WdWHxEqmG5aU7Oz3bugu22OxUeH07ZhWzvL5WsDZBA1urXOPBvaat2IoRpxvGN2ceA2hUxFTLUlZWve/qWbZLA219V1OaqRo3T3kxmIus0tHC3bcFqoU3OVpQsu468diY0KWeE7u9rX9Cs2j2WipK2lo21cz3VG67Mxhw3kmQWAGvArZVouM4xjᴴᴰ3GjDY1VKM6lSVmtFd79xVba7GwYbBHN1ZUPMkwjAkLANWucToP5fxWVehkjeCu+5GvBY916jjU3K19zZhmeLu0h+0/8AJctqvZXkepmw/al/yL7sds8zEqgxCWZsbGF73hz7gcGgX0uT+APaW2jTqTlZ2t8rHJjcVRoU7xu29E3Jd/UXzbDYGGgpTUsnqJcr2BzXFx5rjluMuvEt9K3VqLhG8X429DjwWPVarkqR8HJv6mK4BXQ01XT1DmVDmwyBxDRK4kC/AONj51z05TjNOUlbgehiacKlKUIRldrde5vTZzG46+nFREySNhc9uWYBr7tNjoCV6kJqauj5WvQlRnklqaxxiNj8XxKMNe2aXdsbISWtLTuN61pvo4x5xpxsR068UpPlZLMvl9z3KUUsLTk6baV7+dunRMnat0ZjntTlsEjG5GOYyCV1SKkkcyzdGR5wHW1a9oJJNha87X96y873Jgqd5JZLtO7s91rW1u97e/vL7sAAMPiAZk583NNu6O7RXVhHekt9/meTtZWxUvdtuW7gZFmXQeaQSgIuqBdALoD4uqQXQougF0IWzaa/UVVYgHcvtfUX8K0YlrkpX6ju2an7VTtrc1S5stid4zh9A/qXg5qXZ8z7lU63bX+P7m9jhsj8NbSxybqR1IyISWJyuyBpdYHxr3FD3Mq6j4jlbV+Ue/ffzNaY3spVU81HBNiDpxVzNblDS0AZ2NJ5zj9NcFanGEoxavd9b9T3sLiXVp1akfdyq+kfn8l1Gf7c4k+iobU53T3uZExzQDuxlJu0HS4a0geZdWJqulC8e48rZ2GWKr2m92rNPMmqGv3oq6kS3vvA4Z7+E21868tYiV7pK/E+oeBpuOVt26t3obowibrhhjTNxngkY+2l3DMxzh2tRfwL1qcuVpJyWqPk8RT9mxLjB6PcyxckFNko535nOL6i13HNo2NnDzkrVg7uDbVt/VY6tsuPLRUXfd136We+BbOVseJ1FZLM5sD5JyIt697XNcTkGTsW2Fj29PCVnThVVRuTVjXiK+GeHjCEXm3Xb8zGuV+sp31NPE6Ru8hieXAPLSN4WloNjxs2/n8K04t1LrIjs2QqKhJ1Xq1be/sZPsRDHh+DmpOjXRyVTiSTduW7dT/I1vpW+gpRpXlrqcGNlGriXGnpovzvPDlJwMVpw7K0Oe+d0QdYkBkjN4XG3QBESscTCc8uR23mzZ1elR5TlVfddd/4zKaDc05hoYgGiOnu1o+bEwtYL+Mk+OxXQrL3Tz5KUk5vrNfY1TsftLA0xkuL6d+fLcDJGXdl9hcc1J4he9u6rns0ZwWzpe5v377db6yt5YpwIqOMsMmaSV9gGm2VobfXyyrjdEs1jHYt1Kcsmbdbo+/cW3kgizVVTJujHkga25DBfO+9tD/drXgorM3mub9s1G6cIuGXf8uju7ysxZzptpKePd3bFurvu3TJG6Xhx4kelZTUZYlb966DXRc6ezZe7ud99/mloevK/UODKONjQ4l0zjc5bZQ0DoP0imOcLRUm+BNiRqZpygk9Fv8Az5GtS+b6MY8bnH8l5/8A4et+R9DfFPoj4s3DsbRdbsNdUVADZHsM0mW+jQOYwX1va2nbcV6tGEaNNvifKYytUxmJUN2uVW011KyVzsRwhx5olqKMnS5YKgN9gePwWbtVpaao1JPC4qyfNlqaPu/pmjH2R+bl5SjF6U35n1blJa1l4L1NyclZ/ZrLvD/jp+cLAdl4F6mFVqa3W+R8vtR3xDebNuW/h8jWm3sjeulaDUFvxjOYAzT4tngv/wCVyV4SdR2gn8z2MDUprDwTqtbtF3v5FhMzD/HlcfAD+TVqyz7MfL1OnPR6Jzfcn9kbQ2CcOt8Vi4jPNq++b5R3bXqYVPkle3TofLbUaeJla9t2uuhkN10WPPGZLAXQC6AXQHldAMyAZkAzIC27SXNHUgGxML9Ra49K0Yl2pSfyO3Z0c2KppO281lS0LpJI2GWQ55GN+YOycB2vCvFjVTkllR9pVoShCUnUluTeq6u43Hyh10lPQkwyPhkdLE0PjIDgNXG1/A0hepiqkqdO8dT5bZmHhXr5amlmzU8+JzSSwTT1Msz6aRr2bx9gC1zXW0toS0LzfaKzabV+B9H7DhIRcU7X/wB37m3cXoYMaw8BknMkyvY8E82Vt9HWPRzmkeNetJcpDduPlacvZq3vK9tzV9eKMAh5LakvyvEDWX1k3j3i3bDeJ8RsuJYfE3s5bj2pbRwCjeNNt9T9bmcY3WU+DYYImuDcsZihadXOlIPOsOOpLiuyo3CFlqePQjy9dOS3Xu7LRfm48+TWJkWEwuYA1jjO/QZdA9wvbxNCxwylGksz3mzaM4TxMsist3Rbo6j02G2iGJ0ZzF7Zoxkk0dG/Uc2RvauOkdIKtGeeFm9/TZmOMochVvGLyvS68jWdfg0zMR6hfHI98kzBviGnPG8/K3JudLk+FpXmvDPlMjlr3n0UNpJ0HVhT3JfKyf8A2bD5TKzqfDᴴᴰ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ᴴᴰzzKGQzIBmQDMgKbEYjLDJG2wc9hAvcC/hWqtB1KcorpOnB1lQrwqS0TuY7HsvKeyljHiDne5eatmy6ZI+il/EUPhpvi7epUR7Kt+dM4+S0D2krYtmw6ZM5p/xDV+GCXfd+hUx7M044mR3jcB7AtiwFFa38TmntzFy0aXD1uVEeB0zf4QPlF7vaVtWEor4Uc09qYuWtR8N30KmOihb2MMY+y33LdGnBaJHNPEVp86bfFlS2w4ADxaLI1aglCDMlwLpcE3QC6Ai6twLpcC6lwTdW4sRdLiwzKkF0FhmQDMgGZATmQDMgF0AzICLoBmQC6AXQEZkB83WJkLoBdALoBdALoBdALoBdALoQXQougF0ILoUXQC6AXQC6AXQC6AXQC6EF0KRdCC6AXQC6qAzIBmVIMyAZkAzIBmUAuqBdCnxmWJRmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgIulwLpclhmVJYZkLYZkFiLpcE5kAzIDzzKFGZAMyAZkAzICMyAnMgGZAMyFGZCDMgGZARmQE5kBGZAMyWAzK2AzJYgzJYozJYDMoBmQDMgGZATmQDMgGZAMyAjMlgMypBmQDMgGZAMyWAzKg88yxAzIBdALoBdALoCMyAnMgGZAMyAZkBGZATdALoBdALoBdALqgXQC6AXQC6AXUAuqBdALoBdQC6AXVAuoBdALqgXQC6AXQH/2Q==" group-title="FRANCE SPORT",CANAL+ FORMULA1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108538
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126666
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126667
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124796
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108558
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108559
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108560
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124486
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124485
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124484
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124489
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124488
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124487
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124492
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124491
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124490
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124495
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124494
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124493
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124520
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124523
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124524
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124521
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124525
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124526
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124522
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124527
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124528
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 9
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124559
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ " tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ 
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124560
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124561
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15204
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9340
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9345
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51102
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15203
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9339
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9344
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9588
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ* BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51101
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15202
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name=" BEIN SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", BEIN SPORT 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9341
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9343
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9587
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ* BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51100
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT",RMC SPORT NEWS ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40482
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT",RMC SPORT NEWS ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40481
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4K" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png" group-title="FRANCE SPORT",RMC SPORT 4K
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108552
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15127
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9218
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9502
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15126
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9501
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50978
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50979
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50980
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15124
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9215
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9499
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126960
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126961
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126962
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 4
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126963
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 5
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126964
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 6
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126965
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 7
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126966
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 8
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126967
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="MULTISPORTS 1 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png" group-title="FRANCE SPORT",MULTISPORTS 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108540
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="MULTISPORTS 2 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png" group-title="FRANCE SPORT",MULTISPORTS 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108541
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="MULTISPORTS 3 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png" group-title="FRANCE SPORT",MULTISPORTS 3 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108542
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="MULTISPORTS 4 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png" group-title="FRANCE SPORT",MULTISPORTS 4 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108543
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="MULTISPORTS 6 ᴴᴰ*" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png" group-title="FRANCE SPORT",MULTISPORTS 6 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108545
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="MULTISPORTS 5 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png" group-title="FRANCE SPORT",MULTISPORTS 5 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108544
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="BEIN SPORT MAX 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 4 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15210
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="BEIN SPORT MAX 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 5 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15209
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="BEIN SPORT MAX 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 6 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15208
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="BEIN SPORT MAX 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 7 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15207
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="BEIN SPORT MAX 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 8 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15206
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="BEIN SPORT MAX 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 9 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15205
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="BEIN SPORT MAX 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png" group-title="FRANCE SPORT",BEIN SPORT MAX 10 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15211
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC SPORT LIVE 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 5 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40480
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC SPORT LIVE 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 6 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40479
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="RMC SPORT LIVE 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 7 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40478
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC SPORT LIVE 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive8.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 8 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40477
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC SPORT LIVE 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive9.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 9 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40476
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="RMC SPORT LIVE 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive10.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 10 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40475
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC SPORT LIVE 11 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 11 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40474
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC SPORT LIVE 12 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive12.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 12 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40473
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC SPORT LIVE 13 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive13.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 13 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40472
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="RMC SPORT LIVE 14 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive14.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 14 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40471
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC SPORT LIVE 15 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive15.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 15 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40470
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40484
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40483
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess3.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 3
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/111992
+#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="EUROSPORT 360 ᴴᴰ*" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="FRANCE SPORT",EUROSPORT 360 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108539
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15172
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9281
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9549
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ* BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51105
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9279
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9280
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9548
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ* BKP
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51106
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9265
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15156
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9534
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",FOOT+ 24/24
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32819
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",FOOT+ 24/24 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51104
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9264
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21 ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15155
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21 ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9533
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ MOTO GP ᴴᴰ*  " tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",CANAL+ MOTO GP ᴴᴰ*  
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15147
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="MOTORSPORT TV ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",MOTORSPORT TV ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9526
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9270
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+ ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+ ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15161
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="GOLF+ ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+ ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9540
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="GOLF CHANNEL" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF CHANNEL
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9378
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golfchannel.png" group-title="FRANCE SPORT",GOLF CHANNEL ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15162
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF CHANNEL ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9539
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9282
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15173
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE ᴴᴰ*
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9550
+#EXTINF:-1 tvg-id="Extreme.fr" tvg-name="EXTREME SPORTS ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/exetremsport.png" group-title="FRANCE SPORT",EXTREME SPORTS ᴴᴰ
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15227
