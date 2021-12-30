@@ -518,7 +518,7 @@ https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
 https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 1
-#http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 2 
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 3
