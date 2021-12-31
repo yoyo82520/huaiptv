@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;2440135559e07083fdc25e7710c843db",
 "sites":[
@@ -16,13 +16,6 @@
 {"key":"enlienli_spider","name":"嗯哩嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"jpys_spider","name":"极品影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/jipin.json"},
 {"key":"csp_YydsAli1","name":"阿里雲","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
-
-//（2021.12.30 by小黄瓜）M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个
-// https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appys.json
-//{"key":"csp_appys_xiaogui_one影视","name":"ONE影院","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_one影视"},
-//{"key":"csp_appys_xiaogui_vip影院","name":"VIP影院","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable ":1,"ext":"xiaogui_vip影院"},
-//{"key":"9ekk_spider","name":"9亿看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/9ekk.json"},
-//{"key":"csp_appys_xiaogui_影视工场","name":"影视工场","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_影视工场"},
 
 {"key":"csp_appys_xiaogui_555电影","name":"555电影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_555电影"},
 {"key":"csp_appys_xiaogui_双十电影","name":"双十电影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_双十电影"},
