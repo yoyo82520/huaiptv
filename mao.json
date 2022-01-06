@@ -1,12 +1,15 @@
 ﻿{
-"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 //"spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
+// ⇩⇩ 壁纸 ⇩⇩                                                                                                                  
+//"wallpaper": "https://gitee.com/xlggit/sdg/raw/master/bizhi/0111.jpg",
 "sites":[
 //{"key":"2345_spider","name":"2345影视","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
 //{"key":"sogou_spider","name":"搜狗影视","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"},
 //{"key":"360_spider","name":"360影视","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"},
 //{"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_appys_v1_南府影视","name":"南府影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_南府影视"},
+{"key":"csp_appys_v1_南府影视","name":"南府影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_南府影视"},
 {"key":"ysgc_spider","name":"影视工厂(V0)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"zjdr_spider","name":"追剧达人(V0)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 //"key":"dsx_spider","name":"大师兄影视(V0)","type":3,"api":"csp_Dsxys","searchable":1,"quickSearch":1,"filterable":1},
