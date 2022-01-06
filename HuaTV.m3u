@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="https://git.io/Jkleu"tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://www.hkdtmb.com/epg" tvg-shift=0 m3uautoload=2
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -36,99 +37,99 @@ http://iptv.tvfix.org/hls/cctv15.m3u8
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(繁体)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(简体)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台海外版(粤语)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台海外版(粤语)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台海外版(普通话)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台海外版(普通话)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2(第2声道)
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://rb.gy/vpbeyy" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://rb.gy/vpbeyy" group-title="香港",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台(第2声道)
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="香港",无线财经资讯台
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台(第2声道)
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="香港",无线财经资讯台(第2声道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="港澳台",无线财经资讯台海外版
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://rb.gy/fwgmsk" group-title="香港",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="港澳台",ViuTVᴴᴰ
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTVᴴᴰ
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="港澳台",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="港澳台",ViuTV6
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="香港",ViuTV6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港澳台",Now新闻台
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港澳台",Now直播台
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="港澳台",有线新闻台
+#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有线新闻台
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-#EXTINF:-1 tvg-name="有线直播新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="港澳台",有线直播新闻台
+#EXTINF:-1 tvg-name="有线直播新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有线直播新闻台
 http://hkyx.love.sky-media.tk/test/index.php?id=39
-#EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="港澳台",有线财经资讯台
+#EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港",有线财经资讯台
 http://hkyx.love.sky-media.tk/test/index.php?id=38
-#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="港澳台",有线综合娱乐台
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有线综合娱乐台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623762001-1623763081-0bdc7f704e291b3cc65f9ebc85a5a86b-8d93040f6672be2_8ab-03/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS亚洲台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="香港",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="香港",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台(粤语)
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台(普通话)
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="港澳台",天映经典(粤语)
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="香港",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="港澳台",天映经典(普通话)
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" group-title="香港",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="香港",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",Animax(第2声道)
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="香港",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="港澳台",Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="香港",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="港澳台",Thrill(第2声道)
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="香港",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="香港",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1 tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台",TVB经典台
+#EXTINF:-1 tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河(粤语)
+#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="香港",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河(普通话)
+#EXTINF:-1 tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="香港",TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="港澳台",TVB功夫台(粤语)
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="香港",TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="港澳台",TVB功夫台(普通话)
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="香港",TVB功夫台(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="香港",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="香港",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="AoShiAoMen.mo" tvg-name="澳视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳门",澳视
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -158,140 +159,138 @@ http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="澳门新闻" tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH2.png" group-title="澳门",新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+#EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+#EXTINF:-1 tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",中视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+#EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF:-1 tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台",公视
+#EXTINF:-1 tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾",公视
 http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台湾",国家地理
 http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台湾",Discovery
 http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾",八大综合
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游
 http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",ANIMAX
+#EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="台湾",ANIMAX
 http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="港澳台",纬来综合
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",纬来综合
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="港澳台",八大第一
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾",八大综合
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港澳台",三立台湾
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾",三立台湾
 http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="港澳台",三立都会
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾",三立都会
 http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="港澳台",卫视中文
+#EXTINF:-1 tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="台湾",卫视中文
 http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="港澳台",东森综合
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾",东森综合
 http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾",东森超视
 http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天综合
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天综合
 http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台",中天娱乐
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娱乐
 http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="港澳台",东风卫视
+#EXTINF:-1 tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾",东风卫视
 http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" group-title="港澳台",MuchTV
+#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" group-title="台湾",MuchTV
 http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="港澳台",东森戏剧
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾",东森戏剧
 http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="港澳台",八大戏剧
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾",八大戏剧
 http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐
 http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港澳台",纬来戏剧
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台湾",纬来戏剧
 http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="港澳台",龙华戏剧
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="台湾",龙华戏剧
 http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
-#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",龙华日韩
+#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
 http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港澳台",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="台湾",龙华偶像
 http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
-#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 tvg-name="wakuwaku" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Wakuwaku.png" group-title="港澳台",WAKUWAKU JAPAN
+#EXTINF:-1 tvg-name="wakuwaku" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Wakuwaku.png" group-title="台湾",WAKUWAKU JAPAN
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
+#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾",年代新闻
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天新闻
 http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻
 http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新闻
 http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻
 http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS HD
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS HD
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经
 http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻
 http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻台
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾",壹新闻台
 http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 tvg-name="CNN新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",CNN新闻
+#EXTINF:-1 tvg-name="CNN新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="台湾",CNN新闻
 http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
-#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="港澳台",CNBC新闻
+#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="台湾",CNBC新闻
 http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="台湾",Bloomberg
 http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
-#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHK新闻
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="台湾",NHK新闻
 http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
-#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",卫视电影台
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
-#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好莱坞电影
 http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
-#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",纬来电影台
 http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",龙华电影台
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="台湾",龙华电影台
 http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
-#EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台湾",HBO HD
 http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://iptv-pro.github.io/logo/AXN%E5%8F%B0%E6%B9%BE.png" group-title="港澳台",AXN电影
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://iptv-pro.github.io/logo/AXN%E5%8F%B0%E6%B9%BE.png" group-title="台湾",AXN电影
 http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳台",Cinemax
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="台湾",Cinemax
 http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
-#EXTINF:-1 tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="港澳台",FOXmovies
+#EXTINF:-1 tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台湾",FOXmovies
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="港澳台",FOX频道
+#EXTINF:-1 tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="台湾",FOX频道
 http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
-#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
 http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="港澳台",博斯运动1
+#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾",博斯运动1
 http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="港澳台",博斯运动2
+#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台湾",博斯运动2
 http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://iptv-pro.github.io/logo/ELEVENSPORTS1.png" group-title="港澳台",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://iptv-pro.github.io/logo/ELEVENSPORTS1.png" group-title="台湾",ELEVEN SPORTS 1
 http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN SPORTS 2
 http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",﻿CCTV-1
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
+#http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226675/index.m3u8
+#http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226675/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226880/index.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226754/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.164/PLTV/88888888/224/3221226754/1.m3u8
+#http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226721/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226721/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-1
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226979/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226979/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-2
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-2
@@ -307,51 +306,53 @@ http://39.135.129.164/PLTV/88888888/224/3221226689/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-4
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-4
-http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226692/index.m3u8
+#http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226692/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-4
 http://39.135.129.162/PLTV/88888888/224/3221226731/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-4
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226899/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226899/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5
-http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5
+#http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226864/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5
 http://39.135.129.162/PLTV/88888888/224/3221226802/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5
 http://39.135.129.164/PLTV/88888888/224/3221226714/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5+
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226745/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-5+
-http://39.135.129.162/PLTV/88888888/224/3221226445/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+
+#http://39.135.129.162/PLTV/88888888/224/3221226445/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-6
 http://39.135.129.164/PLTV/88888888/224/3221226753/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-7
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226175/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-7
-http://39.135.129.162/PLTV/88888888/224/3221226143/1.m3u8
+#http://39.135.129.162/PLTV/88888888/224/3221226143/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-8
 http://39.135.129.164/PLTV/88888888/224/3221226116/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-8
-http://39.135.129.166/PLTV/88888888/224/3221226804/1.m3u8
+#http://39.135.129.166/PLTV/88888888/224/3221226804/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-9
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226734/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-10
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226702/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-10
-http://39.135.129.164/PLTV/88888888/224/3221226462/1.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-12
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226736/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-12
-http://39.135.129.162/PLTV/88888888/224/3221226439/1.m3u8
+#http://39.135.129.162/PLTV/88888888/224/3221226439/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-14
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226720/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-14
-http://39.135.129.162/PLTV/88888888/224/3221226464/1.m3u8
+#http://39.135.129.162/PLTV/88888888/224/3221226464/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-16
+http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226880/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-17
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226841/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="国内¹⁰⁸⁰ᵖ ",CCTV-17
-http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="国内¹⁰⁸⁰ᵖ",北京卫视
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="国内¹⁰⁸⁰ᵖ",北京卫视
@@ -628,17 +629,17 @@ http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yoyo82520/huaiptv/main/m2.png"  group-title="体育+",咪咕视频¹⁰⁸⁰ᵖ 
 http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://iptv.tvfix.org/hls/chcatv.m3u8
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭电影
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭电影
 http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://mail.lacool.tk:8086/rtp/239.93.42.5:5140
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
 http://mail.lacool.tk:8086/rtp/239.93.42.6:5140
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://mail.lacool.tk:8086/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实",北京冬奥纪实
 http://iptv.tvfix.org/hls/btv11hd.m3u8
@@ -654,427 +655,427 @@ http://iptv.tvfix.org/hls/docuchina.m3u8
 http://mail.lacool.tk:8086/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实",纪实人文标清
 http://mail.lacool.tk:8086/rtp/239.93.1.154:5140
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name=" beIN Sports NEWS ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="beIN Sports", beIN Sports NEWS ᴴᴰ
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name=" beIN Sports NEWS ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="体育+", beIN Sports NEWS ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9152
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports NEWS HEVC " tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="beIN Sports", beIN Sports NEWS HEVC 
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports NEWS HEVC " tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="体育+", beIN Sports NEWS HEVC 
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92512
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name=" beIN Sports" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="beIN Sports", beIN Sports
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name=" beIN Sports" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="体育+", beIN Sports
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9156
-#EXTINF:-1 tvg-id="beINSports4KAr.qa" tvg-name=" BEIN SPORT 4K " tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest/scale-to-width-down/220?cb=20190818174249&path-prefix=fr" group-title="beIN Sports", BEIN SPORT 4K 
+#EXTINF:-1 tvg-id="beINSports4KAr.qa" tvg-name=" BEIN SPORT 4K " tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest/scale-to-width-down/220?cb=20190818174249&path-prefix=fr" group-title="体育+", BEIN SPORT 4K 
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30750
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="beIN Sports", beIN Sports HEVC
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="体育+", beIN Sports HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92511
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32008
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9147
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 1¹⁰⁸⁰ᵖ 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 1¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30756
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 1 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 1¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 1¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39224
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32007
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9148
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9149
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 2¹⁰⁸⁰ᵖ 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 2¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30757
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 2 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 2¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 2¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39225
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name=" beIN Sports PREMIUM 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name=" beIN Sports PREMIUM 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32006
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9151
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports PREMIUM 3¹⁰⁸⁰ᵖ 4K" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 3¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30758
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3 ᴴᴰ* HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports PREMIUM 3 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports PREMIUM 3¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports PREMIUM 3¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39226
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="体育+", beIN Sports 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32015
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="体育+", beIN Sports 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9131
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ*" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="体育+", beIN Sports 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32146
-#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name=" beIN Sports 1 ᴴᴰ* 4K" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name=" beIN Sports 1¹⁰⁸⁰ᵖ 4K" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="体育+", beIN Sports 1¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30749
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 1¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="体育+", beIN Sports 1¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28265
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="体育+", beIN Sports 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32014
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="体育+", beIN Sports 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9134
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="体育+", beIN Sports 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9135
-#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name=" beIN Sports 2 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name=" beIN Sports 2¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="体育+", beIN Sports 2¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30751
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="beIN Sports", beIN Sports 2 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 2¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="体育+", beIN Sports 2¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28266
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="体育+", beIN Sports 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32013
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ" tvg-logo=" http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ" tvg-logo=" http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="体育+", beIN Sports 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9136
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="体育+", beIN Sports 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9137
-#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name=" beIN Sports 3 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name=" beIN Sports 3¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="体育+", beIN Sports 3¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30752
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="beIN Sports", beIN Sports 3 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 3¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="体育+", beIN Sports 3¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28267
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="体育+", beIN Sports 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32012
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="体育+", beIN Sports 4 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9138
-#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ*
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="体育+", beIN Sports 4 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/103764
-#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name=" beIN Sports 4¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="体育+", beIN Sports 4¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30755
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="beIN Sports", beIN Sports 4 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 4¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="体育+", beIN Sports 4¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28268
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="体育+", beIN Sports 5
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32011
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="体育+", beIN Sports 5 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9140
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="体育+", beIN Sports 5 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9141
-#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name=" beIN Sports 5 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name=" beIN Sports 5¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="体育+", beIN Sports 5¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30754
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 5¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="体育+", beIN Sports 5¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28269
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="体育+", beIN Sports 6
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32010
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="体育+", beIN Sports 6 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9142
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="体育+", beIN Sports 6 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9143
-#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name=" beIN Sports 6 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name=" beIN Sports 6¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="体育+", beIN Sports 6¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30759
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 6¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="体育+", beIN Sports 6¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28270
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="体育+", beIN Sports 7
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32009
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="体育+", beIN Sports 7 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9144
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="体育+", beIN Sports 7 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9145
-#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name=" beIN Sports 7 ᴴᴰ* 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ* 4K
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name=" beIN Sports 7¹⁰⁸⁰ᵖ 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="体育+", beIN Sports 7¹⁰⁸⁰ᵖ 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30760
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7 ᴴᴰ* HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7 ᴴᴰ* HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports 7¹⁰⁸⁰ᵖ HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="体育+", beIN Sports 7¹⁰⁸⁰ᵖ HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/28271
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 1 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports ENGLISH 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9153
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 2 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports ENGLISH 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9154
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports ENGLISH 3 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" beIN Sports ENGLISH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports ENGLISH 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9155
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 1 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="beIN Sports", beIN Sports XTRA 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 1 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="体育+", beIN Sports XTRA 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/119957
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 2 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="beIN Sports", beIN Sports XTRA 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports XTRA 2 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqᴴᴰVC2LlaTw&usqp=CAU" group-title="体育+", beIN Sports XTRA 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/119958
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 1 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports FRENCH 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124099
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 2 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports FRENCH 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124097
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="beIN Sports", beIN Sports FRENCH 3 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports FRENCH 3 ᴴᴰ" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="体育+", beIN Sports FRENCH 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124098
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="beIN FH265",BEIN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="体育+",BEIN SPORT 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83082
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="beIN FH265",BEIN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="体育+",BEIN SPORT 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83081
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="beIN FH265",BEIN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="体育+",BEIN SPORT 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83080
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="" group-title="体育+",BEIN SPORT MAX 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83079
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN FH265",BEIN SPORT MAX 5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="体育+",BEIN SPORT MAX 5
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83077
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="" group-title="体育+",BEIN SPORT MAX 6
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83076
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="" group-title="体育+",BEIN SPORT MAX 7
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83075
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="体育+",BEIN SPORT MAX 8
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83078
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 9
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9" tvg-logo="" group-title="体育+",BEIN SPORT MAX 9
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83074
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10" tvg-logo="" group-title="beIN FH265",BEIN SPORT MAX 10
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10" tvg-logo="" group-title="体育+",BEIN SPORT MAX 10
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83073
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" tvg-logo="" group-title="beIN FH265",MULTISPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" tvg-logo="" group-title="体育+",MULTISPORTS 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83091
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="" group-title="beIN FH265",MULTISPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="" group-title="体育+",MULTISPORTS 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83092
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="" group-title="beIN FH265",MULTISPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="" group-title="体育+",MULTISPORTS 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83093
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="" group-title="beIN FH265",MULTISPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="" group-title="体育+",MULTISPORTS 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83094
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="" group-title="beIN FH265",MULTISPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="" group-title="体育+",MULTISPORTS 5
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83095
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" tvg-logo="" group-title="beIN FH265",MULTISPORTS 6
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" tvg-logo="" group-title="体育+",MULTISPORTS 6
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83096
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL+ SPORT
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="体育+",CANAL+ SPORT
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39203
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL SPORT ᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="体育+",CANAL SPORT ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15191
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/canalsport.png" group-title="FRANCE SPORT",CANAL+ SPORT ᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/canalsport.png" group-title="体育+",CANAL+ SPORT ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9326
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",CANAL+ SPORT ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="体育+",CANAL+ SPORT ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51166
-#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="CANAL+ LIGUE 1 ᴴᴰ*" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",CANAL+ LIGUE 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="CANAL+ LIGUE 1 ᴴᴰ*" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="体育+",CANAL+ LIGUE 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108268
-#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",CANAL+ PREMIER LEAGUE ᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="体育+",CANAL+ PREMIER LEAGUE ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125118
-#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ*" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",CANAL+ PREMIER LEAGUE ᴴᴰ*
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ*" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="体育+",CANAL+ PREMIER LEAGUE ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/115017
-#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="CANAL+ TOP14 ᴴᴰ*" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT",CANAL+ TOP14 ᴴᴰ*
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="CANAL+ TOP14 ᴴᴰ*" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="体育+",CANAL+ TOP14 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108537
-#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT",CANAL+ FORMULA1 ᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="体育+",CANAL+ FORMULA1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125119
-#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ*" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT",CCANAL+ FORMULA1 ᴴᴰ*
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="CANAL+ FORMULA1 ᴴᴰ*" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="体育+",CCANAL+ FORMULA1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108538
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME MULTIPLEX
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126666
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME MULTIPLEX ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126667
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME MULTIPLEX ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME MULTIPLEX ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME MULTIPLEX ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124796
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108558
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108559
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108560
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124486
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124485
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124484
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124489
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124488
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124487
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124492
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124491
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 4 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124490
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 5
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124495
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124494
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 5 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124493
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 6
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124520
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124523
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 6 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124524
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 7
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124521
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124525
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 7 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124526
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 8
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124522
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124527
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 8 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124528
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 9
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 9
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124559
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ " tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ " tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LIVE 9 ᴴᴰ 
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124560
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 1 LiVE 9 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124561
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="体育+",BEIN SPORT 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15204
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="体育+",BEIN SPORT 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9340
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ BKP
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORT 1 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="体育+",BEIN SPORT 1 ᴴᴰ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9345
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",BEIN SPORT 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="体育+",BEIN SPORT 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51102
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="体育+",BEIN SPORT 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15203
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="体育+",BEIN SPORT 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9339
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ BKP
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="体育+",BEIN SPORT 2 ᴴᴰ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9344
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="体育+",BEIN SPORT 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9588
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",BEIN SPORT 2 ᴴᴰ* BKP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2¹⁰⁸⁰ᵖ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="体育+",BEIN SPORT 2¹⁰⁸⁰ᵖ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51101
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="体育+",BEIN SPORT 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15202
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name=" BEIN SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", BEIN SPORT 3 ᴴᴰ
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name=" BEIN SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="体育+", BEIN SPORT 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9341
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ BKP
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="体育+",BEIN SPORT 3 ᴴᴰ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9343
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="体育+",BEIN SPORT 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9587
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",BEIN SPORT 3 ᴴᴰ* BKP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3¹⁰⁸⁰ᵖ BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="体育+",BEIN SPORT 3¹⁰⁸⁰ᵖ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51100
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT",RMC SPORT NEWS ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="体育+",RMC SPORT NEWS ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40482
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT",RMC SPORT NEWS ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS ᴴᴰ*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="体育+",RMC SPORT NEWS ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40481
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4K" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png" group-title="FRANCE SPORT",RMC SPORT 4K
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4K" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png" group-title="体育+",RMC SPORT 4K
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108552
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="体育+",RMC SPORT 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15127
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="体育+",RMC SPORT 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9218
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",RMC SPORT 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="体育+",RMC SPORT 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9502
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="体育+",RMC SPORT 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15126
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="体育+",RMC SPORT 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",RMC SPORT 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="体育+",RMC SPORT 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9501
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="体育+",RMC SPORT 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50978
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="体育+",RMC SPORT 3 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50979
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",RMC SPORT 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="体育+",RMC SPORT 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/50980
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="体育+",RMC SPORT 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15124
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4 ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="体育+",RMC SPORT 4 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9215
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",RMC SPORT 4 ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RMC SPORT 4 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="体育+",RMC SPORT 4 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9499
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 1
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126960
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 2
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126961
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 3
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126962
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 4
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 4
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126963
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 5
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 5
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126964
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 6
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 6
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126965
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 7
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 7
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126966
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",AMAZON PRIME LIGUE 2 LIVE 8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME LIGUE 2 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="体育+",AMAZON PRIME LIGUE 2 LIVE 8
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126967
-#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="MULTISPORTS 1 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png" group-title="FRANCE SPORT",MULTISPORTS 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="MULTISPORTS 1 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png" group-title="体育+",MULTISPORTS 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108540
-#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="MULTISPORTS 2 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png" group-title="FRANCE SPORT",MULTISPORTS 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="MULTISPORTS 2 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png" group-title="体育+",MULTISPORTS 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108541
-#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="MULTISPORTS 3 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png" group-title="FRANCE SPORT",MULTISPORTS 3 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="MULTISPORTS 3 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png" group-title="体育+",MULTISPORTS 3 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108542
-#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="MULTISPORTS 4 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png" group-title="FRANCE SPORT",MULTISPORTS 4 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="MULTISPORTS 4 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png" group-title="体育+",MULTISPORTS 4 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108543
-#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="MULTISPORTS 6 ᴴᴰ*" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png" group-title="FRANCE SPORT",MULTISPORTS 6 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="MULTISPORTS 6 ᴴᴰ*" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png" group-title="体育+",MULTISPORTS 6 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108545
-#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="MULTISPORTS 5 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png" group-title="FRANCE SPORT",MULTISPORTS 5 ᴴᴰ*
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="MULTISPORTS 5 ᴴᴰ*" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png" group-title="体育+",MULTISPORTS 5 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108544
-#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="BEIN SPORT MAX 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 4 ᴴᴰ
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="BEIN SPORT MAX 4 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png" group-title="体育+",BEIN SPORT MAX 4 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15210
-#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="BEIN SPORT MAX 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 5 ᴴᴰ
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="BEIN SPORT MAX 5 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png" group-title="体育+",BEIN SPORT MAX 5 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15209
-#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="BEIN SPORT MAX 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 6 ᴴᴰ
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="BEIN SPORT MAX 6 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png" group-title="体育+",BEIN SPORT MAX 6 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15208
-#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="BEIN SPORT MAX 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 7 ᴴᴰ
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="BEIN SPORT MAX 7 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png" group-title="体育+",BEIN SPORT MAX 7 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15207
-#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="BEIN SPORT MAX 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 8 ᴴᴰ*
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="BEIN SPORT MAX 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png" group-title="体育+",BEIN SPORT MAX 8 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15206
-#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="BEIN SPORT MAX 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png" group-title="FRANCE SPORT",BEIN SPORT MAX 9 ᴴᴰ*
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="BEIN SPORT MAX 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png" group-title="体育+",BEIN SPORT MAX 9 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15205
-#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="BEIN SPORT MAX 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png" group-title="FRANCE SPORT",BEIN SPORT MAX 10 ᴴᴰ*
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="BEIN SPORT MAX 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png" group-title="体育+",BEIN SPORT MAX 10 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15211
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC SPORT LIVE 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 5 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC SPORT LIVE 5 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png" group-title="体育+",RMC SPORT LIVE 5 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40480
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC SPORT LIVE 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 6 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC SPORT LIVE 6 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png" group-title="体育+",RMC SPORT LIVE 6 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40479
-#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="RMC SPORT LIVE 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 7 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="RMC SPORT LIVE 7 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png" group-title="体育+",RMC SPORT LIVE 7 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40478
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC SPORT LIVE 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive8.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 8 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC SPORT LIVE 8 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive8.fr.png" group-title="体育+",RMC SPORT LIVE 8 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40477
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC SPORT LIVE 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive9.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 9 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC SPORT LIVE 9 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive9.fr.png" group-title="体育+",RMC SPORT LIVE 9 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40476
-#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="RMC SPORT LIVE 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive10.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 10 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="RMC SPORT LIVE 10 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive10.fr.png" group-title="体育+",RMC SPORT LIVE 10 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40475
-#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC SPORT LIVE 11 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 11 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC SPORT LIVE 11 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png" group-title="体育+",RMC SPORT LIVE 11 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40474
-#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC SPORT LIVE 12 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive12.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 12 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC SPORT LIVE 12 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive12.fr.png" group-title="体育+",RMC SPORT LIVE 12 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40473
-#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC SPORT LIVE 13 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive13.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 13 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC SPORT LIVE 13 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive13.fr.png" group-title="体育+",RMC SPORT LIVE 13 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40472
-#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="RMC SPORT LIVE 14 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive14.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 14 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="RMC SPORT LIVE 14 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive14.fr.png" group-title="体育+",RMC SPORT LIVE 14 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40471
-#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC SPORT LIVE 15 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive15.fr.png" group-title="FRANCE SPORT",RMC SPORT LIVE 15 ᴴᴰ*
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC SPORT LIVE 15 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive15.fr.png" group-title="体育+",RMC SPORT LIVE 15 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40470
-#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 1
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="体育+",RMC SPORT ACCESS 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40484
-#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 2
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="体育+",RMC SPORT ACCESS 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40483
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess3.fr.png" group-title="FRANCE SPORT",RMC SPORT ACCESS 3
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 3" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess3.fr.png" group-title="体育+",RMC SPORT ACCESS 3
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/111992
-#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="EUROSPORT 360 ᴴᴰ*" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="FRANCE SPORT",EUROSPORT 360 ᴴᴰ*
+#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="EUROSPORT 360 ᴴᴰ*" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="体育+",EUROSPORT 360 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108539
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="体育+",EUROSPORT 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15172
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="体育+",EUROSPORT 1 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9281
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ*
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="体育+",EUROSPORT 1 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9549
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",EUROSPORT 1 ᴴᴰ* BKP
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1¹⁰⁸⁰ᵖ BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="体育+",EUROSPORT 1¹⁰⁸⁰ᵖ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51105
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="体育+",EUROSPORT 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9279
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="体育+",EUROSPORT 2 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9280
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ*
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="体育+",EUROSPORT 2 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9548
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ᴴᴰ* BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",EUROSPORT 2 ᴴᴰ* BKP
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2¹⁰⁸⁰ᵖ BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="体育+",EUROSPORT 2¹⁰⁸⁰ᵖ BKP
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51106
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="体育+",INFOSPORT
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9265
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT ᴴᴰ
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="体育+",INFOSPORT ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15156
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",INFOSPORT ᴴᴰ*
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="体育+",INFOSPORT ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9534
-#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",FOOT+ 24/24
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="体育+",FOOT+ 24/24
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32819
-#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",FOOT+ 24/24 ᴴᴰ*
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="体育+",FOOT+ 24/24 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51104
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="体育+",LEQUIPE 21
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9264
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21 ᴴᴰ
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="体育+",LEQUIPE 21 ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15155
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",LEQUIPE 21 ᴴᴰ*
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="LEQUIPE 21 ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="体育+",LEQUIPE 21 ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9533
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ MOTO GP ᴴᴰ*  " tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",CANAL+ MOTO GP ᴴᴰ*  
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ MOTO GP¹⁰⁸⁰ᵖ  " tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="体育+",CANAL+ MOTO GP¹⁰⁸⁰ᵖ  
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15147
-#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="MOTORSPORT TV ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",MOTORSPORT TV ᴴᴰ*
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="MOTORSPORT TV ᴴᴰ*" tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="体育+",MOTORSPORT TV ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9526
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="体育+",GOLF+
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9270
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+ ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+ ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF+ ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="体育+",GOLF+ ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15161
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="GOLF+ ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF+ ᴴᴰ*
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="GOLF+ ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="体育+",GOLF+ ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9540
-#EXTINF:-1 tvg-id="Golf.fr" tvg-name="GOLF CHANNEL" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF CHANNEL
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="GOLF CHANNEL" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="体育+",GOLF CHANNEL
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9378
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golfchannel.png" group-title="FRANCE SPORT",GOLF CHANNEL ᴴᴰ
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/golfchannel.png" group-title="体育+",GOLF CHANNEL ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15162
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",GOLF CHANNEL ᴴᴰ*
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="GOLF CHANNEL ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="体育+",GOLF CHANNEL ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9539
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="体育+",EQUIDIA LIVE
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9282
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE ᴴᴰ
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="体育+",EQUIDIA LIVE ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15173
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",EQUIDIA LIVE ᴴᴰ*
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE ᴴᴰ*" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="体育+",EQUIDIA LIVE ᴴᴰ*
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9550
-#EXTINF:-1 tvg-id="Extreme.fr" tvg-name="EXTREME SPORTS ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/exetremsport.png" group-title="FRANCE SPORT",EXTREME SPORTS ᴴᴰ
+#EXTINF:-1 tvg-id="Extreme.fr" tvg-name="EXTREME SPORTS ᴴᴰ" tvg-logo="http://one-iptv.com/logoX/SfrSport/exetremsport.png" group-title="体育+",EXTREME SPORTS ᴴᴰ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15227
