@@ -5,6 +5,7 @@
 //"wallpaper": "https://gitee.com/xlggit/sdg/raw/master/bizhi/0111.jpg",
 "sites":[
 {"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"zjdr_spider","name":"超音速","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_xiaogui_追剧达人","name":"追剧达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_追剧达人"},
 {"key":"auete_spider","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"},
 {"key":"cokemv_spider2","name":"Ck雲","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/cokemv.json"},
@@ -27,13 +28,13 @@
 //（2022.01.05 by小黄瓜）M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个嘩劇迷華影視娛和黃映畫電像英皇影城影阁追劇吧
 // https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appys.json
 {"key":"csp_appys_xiaogui_灵狐影视","name":"灵狐影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_灵狐影视"},
+{"key":"csp_appys_v1_杨桃影视","name":"銀狐影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_杨桃影视"},
 {"key":"csp_appys_xiaogui_苍蓝资源","name":"和黃映畫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_苍蓝资源"},
 {"key":"csp_appys_xiaogui_环球影视","name":"環球影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_环球影视"},
 {"key":"csp_appys_v1_阿姨追剧","name":"環亞娛樂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_阿姨追剧"},
 {"key":"csp_appys_xiaogui_非凡TV","name":"嘩劇迷","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_非凡TV"},
 {"key":"csp_appys_xiaogui_酷扑TV","name":"華映畫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_酷扑TV"},
 {"key":"csp_appys_v1_饭后电影", "name":"華影視", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch": 1,"filterable":1,"ext":"v1_饭后电影"},
-{"key":"csp_appys_v1_杨桃影视","name":"銀狐影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_杨桃影视"},
 {"key":"csp_appys_xiaogui_LIBVIO","name":"華娛","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_LIBVIO"},
 {"key":"csp_appys_xiaogui_我爱电影","name":"華影城","type":3,"api":"csp_AppYs","searchable":1,"quickSearch": 1,"filterable":1,"ext":"xiaogui_我爱电影"},
 {"key":"csp_appys_xiaogui_555电影","name":"華電影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_555电影"},
@@ -60,14 +61,14 @@
 {"key":"csp_appys_v1_雪人资源","name":"雪人资源","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_雪人资源"},
 {"key":"csp_appys_v1_80K影视","name":"DK影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_80K影视"},
 {"key":"csp_appys_v1_剧迷视频","name":"剧迷","type":3,"api":"csp_AppYs","searchable":1,"quickSearch": 0,"filterable":1,"ext":"v1_剧迷视频"},
-//{"key":"csp_appys_xiaogui_TV酷", "name" :"酷TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable"1,"ext":" xiaogui_TV酷"},
 {"key":"csp_appys_v1_手指影视","name":"手指影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_手指影视"},
+//{"key":"csp_appys_xiaogui_TV酷", "name" :"酷TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable"1,"ext":" xiaogui_TV酷"},
 //{"key":"喵派对蓝光","name":"喵派对蓝光","type":0,"api":"https://www.neenl.com/api.php/provide/vod/at/xml","playUrl":"https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"BL视频","name":"AG视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"Jumi","name":"劇迷","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Jumi.json"},
-{"key":"Sky4k","name":"4k映畫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Sky4k.json"},
+//{"key":"Sky4k","name":"4k映畫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Sky4k.json"},
 {"key":"唐人街","name":"唐人映畫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Renjie.json"},
-{"key":"Djx","name":"瓜皮TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Djx.json"},
+{"key":"Djx","name":"瓜皮影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Djx.json"},
 {"key":"csp_xpath_4kpianku","name":"4k映像","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/4kpianku.json"}
 ],
 "lives":[
