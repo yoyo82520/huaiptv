@@ -4,7 +4,6 @@
 // ⇩⇩ 壁纸 ⇩⇩                                                                                                                  
 //"wallpaper": "https://gitee.com/xlggit/sdg/raw/master/bizhi/0111.jpg",
 "sites":[
-
 {"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_xiaogui_追剧达人","name":"追剧达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_追剧达人"},
 {"key":"auete_spider","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"},
@@ -61,7 +60,7 @@
 {"key":"csp_appys_v1_雪人资源","name":"雪人资源","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_雪人资源"},
 {"key":"csp_appys_v1_80K影视","name":"DK影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_80K影视"},
 {"key":"csp_appys_v1_剧迷视频","name":"剧迷","type":3,"api":"csp_AppYs","searchable":1,"quickSearch": 0,"filterable":1,"ext":"v1_剧迷视频"},
-{"key":"csp_appys_xiaogui_TV酷", "name" :"酷TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable"1,"ext":" xiaogui_TV酷"},
+//{"key":"csp_appys_xiaogui_TV酷", "name" :"酷TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable"1,"ext":" xiaogui_TV酷"},
 {"key":"csp_appys_v1_手指影视","name":"手指影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_手指影视"},
 //{"key":"喵派对蓝光","name":"喵派对蓝光","type":0,"api":"https://www.neenl.com/api.php/provide/vod/at/xml","playUrl":"https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"BL视频","name":"AG视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
