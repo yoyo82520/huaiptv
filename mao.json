@@ -5,8 +5,7 @@
 //"wallpaper": "https://gitee.com/xlggit/sdg/raw/master/bizhi/0111.jpg",
 "sites":[
 {"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"zjdr_spider","name":"超音速","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_appys_xiaogui_追劇达人","name":"追剧达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_追剧达人"},
+{"key":"csp_appys_xiaogui_追剧达人","name":"追劇达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_追剧达人"},
 {"key":"auete_spider","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"},
 {"key":"cokemv_spider2","name":"Ck雲","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/cokemv.json"},
 {"key":"adys_spider","name":"爱迪","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/aidi.json"},
