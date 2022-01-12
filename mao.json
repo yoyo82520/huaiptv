@@ -10,9 +10,9 @@
 {"key":"cokemv_spider2","name":"Ck雲","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cokemv.json"},
 {"key":"adys_spider","name":"爱迪影視","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/aidi.json"},
 {"key":"csp_appys_xiaogui_嘀哩嘀哩","name":"嘩哩嘩哩","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_嘀哩嘀哩"},
-{"key":"Nfuxs","name":"南府影視","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Nfuxs.json"},
+//{"key":"Nfuxs","name":"南府影視","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Nfuxs.json"},
 
-//{"key":"csp_YydsAli1","name":"阿里雲","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"csp_YydsAli1","name":"阿里雲","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
 //{"key":"zjdr_spider","name":"追剧达人(V0)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 //"key":"dsx_spider","name":"大师兄影视(V0)","type":3,"api":"csp_Dsxys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"cokemv_spider","name":"Ck雲","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cokemv.json"},
@@ -26,7 +26,7 @@
 //{"key":"jpys_spider","name":"极品影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/jipin.json"},
 //{"key":"9ekk_spider","name":"9亿看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/9ekk.json"},
 
-//（2022.01.05 by小黄瓜）M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个嘩劇迷華影視娛和黃映畫電像英皇影城影阁追劇吧
+// ⇩⇩(2022.01.05 by小黄瓜）M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个嘩劇迷華影視娛和黃映畫電像英皇影城影阁追劇吧 ⇩⇩
 // https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appys.json
 {"key":"csp_appys_xiaogui_灵狐影视","name":"灵狐影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_灵狐影视"},
 {"key":"csp_appys_v1_杨桃影视","name":"銀狐影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_杨桃影视"},
@@ -36,7 +36,7 @@
 {"key":"csp_appys_xiaogui_非凡TV","name":"嘩劇迷","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_非凡TV"},
 {"key":"csp_appys_xiaogui_酷扑TV","name":"華映畫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_酷扑TV"},
 {"key":"csp_appys_v1_饭后电影", "name":"華影視", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch": 1,"filterable":1,"ext":"v1_饭后电影"},
-{"key":"csp_appys_xiaogui_LIBVIO","name":"華娛","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_LIBVIO"},
+{"key":"csp_appys_xiaogui_LIBVIO","name":"華娛影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_LIBVIO"},
 {"key":"csp_appys_xiaogui_我爱电影","name":"華影城","type":3,"api":"csp_AppYs","searchable":1,"quickSearch": 1,"filterable":1,"ext":"xiaogui_我爱电影"},
 {"key":"csp_appys_xiaogui_555电影","name":"華電影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_555电影"},
 {"key":"csp_appys_xiaogui_琳琅影视","name":"琳琅影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_琳琅影视"},
@@ -61,7 +61,7 @@
 {"key":"csp_appys_v1_剧迷视频","name":"剧迷","type":3,"api":"csp_AppYs","searchable":1,"quickSearch": 0,"filterable":1,"ext":"v1_剧迷视频"},
 {"key":"csp_appys_xiaogui_麻花视频","name":"麻花视频","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_麻花视频"},
 {"key":"csp_appys_v1_手指影视","name":"手指影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_手指影视"},
-//{"key":"csp_appys_xiaogui_TV酷", "name" :"酷TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable"1,"ext":" xiaogui_TV酷"},
+{"key":"csp_appys_xiaogui_TV酷","name":"猫影視","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_TV酷"},
 {"key":"BL视频","name":"AG视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"Jumi","name":"劇迷","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Jumi.json"},
 //{"key":"Sky4k","name":"4k映畫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Sky4k.json"},
