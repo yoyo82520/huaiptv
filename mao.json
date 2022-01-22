@@ -4,7 +4,7 @@
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 
-{"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"auete_spider","name":"Auete影視","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/auete.json"},
 {"key":"cokemv_spider2","name":"Ck雲","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cokemv.json"},
 {"key":"adys_spider","name":"爱迪影視","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/aidi.json"},
@@ -23,9 +23,9 @@
 {"key":"csp_appys_星空影视","name":"星空影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
 {"key":"csp_appys_天空影视","name":"天空影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/api.php/app/"},
 {"key":"csp_appys_嘀哩嘀哩","name":"嘀哩嘀哩","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dilidili.la/api.php/app/"},
-{"key":"csp_appys_灵狐影视","name":"灵狐影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
+{"key":"csp_appys_灵狐影视","name":"灵狐影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
 {"key":"csp_appys_我爱电影","name":"我爱电影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xg.5imv.net/api.php/app/"},
-{"key":"csp_appys_雪人影视","name":"雪人影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
+{"key":"csp_appys_雪人影视","name":"雪人影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
 {"key":"csp_appys_杨桃影视","name":"杨桃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_1080p","name":"1080P","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080p.one/mogai_api.php/v1.vod"},
 {"key":"csp_appys_段友影视2","name":"段友影视2","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
