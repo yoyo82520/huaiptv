@@ -4,6 +4,7 @@
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 
 "sites":[
+{"key":"csp_appysv2_tkys","name":"環球影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appys_TV酷","name":"酷影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.u23c.com/api.php/app/"},
 //{"key":"csp_appys_追剧达人","name":"追剧达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipmv.co/xgapp.php/v1/"},
 {"key":"csp_appys_星空影视","name":"星空影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
@@ -16,7 +17,6 @@
 {"key":"csp_appys_灵狐影视","name":"灵狐影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
 {"key":"csp_appys_杨桃影视","name":"杨桃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_tkys","name":"華娛影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
-{"key":"csp_appysv2_tkys","name":"環球影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 //{"key":"csp_appys_HG影视","name":"HG影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hgyx.vip/api.php/v1.vod"},
 {"key":"csp_appys_1080p","name":"1080P","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080p.one/mogai_api.php/v1.vod"},
 {"key":"csp_appys_南府影视","name":"南府影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
