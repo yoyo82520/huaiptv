@@ -561,11 +561,11 @@ https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
 https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://red.ipfox.org:8080/1234/12345678/31548
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 2 
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://red.ipfox.org:8080/1234/12345678/31547
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 3
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+http://red.ipfox.org:8080/1234/12345678/31546
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 1
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 2
@@ -573,7 +573,7 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/729
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="体育", NBA TV
 http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yoyo82520/huaiptv/main/m2.png" group-title="体育+",英超法甲德甲
-http://39.135.46.246:6610/PLTV/77777777/224/3221225965/index.m3u8?hls
+http://red.ipfox.org:8080/1234/12345678/31529
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yoyo82520/huaiptv/main/m2.png" group-title="体育+",意甲西甲中
 http://39.135.46.246:6610/PLTV/77777777/224/3221225962/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yoyo82520/huaiptv/main/m2.png" group-title="体育+",nba-cba
