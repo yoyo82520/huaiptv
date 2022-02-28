@@ -17,7 +17,7 @@
 {"key":"csp_appysv2_爱迪影视","name":"爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"爱迪影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_播放呀","name":"播放呀","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"播放呀###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 //{"key":"csp_appysv2_苍蓝资源","name":"苍蓝资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"苍蓝资源###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_段友影视3","name":"段友影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"段友影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_段友影视3","name":"段友影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"段友影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_非凡TV","name":"非凡影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"非凡TV###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_神马影视2","name":"神马影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"神马影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_爱西西TV","name":"爱西西TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"爱西西TV###https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/appysv2.json"},
@@ -39,7 +39,7 @@
 {"key":"csp_appysv2_(无名)","name":"唐人映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"(无名)###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_免费看2","name":"免费看2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"免费看###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_林谷影视","name":"林谷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"林谷影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_饭后电影2","name":"饭后电影2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_饭后电影2","name":"饭后电影2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭后电影###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_琅琊影视","name":"琅琊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"琅琊影视###https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/appysv2.json"},
 {"key":"csp_appysv2_雪人影视","name":"雪人影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"雪人影视###https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/appysv2.json"},
 
