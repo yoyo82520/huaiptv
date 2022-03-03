@@ -72,13 +72,25 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有线新闻台
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 #EXTINF:-1 tvg-name="有线直播新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有线直播新闻台
-http://hkyx.love.sky-media.tk/test/index.php?id=39
+rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 #EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港",有线财经资讯台
 http://hkyx.love.sky-media.tk/test/index.php?id=38
 #EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有线综合娱乐台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623762001-1623763081-0bdc7f704e291b3cc65f9ebc85a5a86b-8d93040f6672be2_8ab-03/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
+http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="香港",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="香港",TVBS新闻台
@@ -111,22 +123,6 @@ http://iptv.tvfix.org/hls/tvbxh2.m3u8
 http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" group-title="香港",TVB功夫台(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="香港",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="香港",国家地理
@@ -496,76 +492,76 @@ http://iptv.tvfix.org/hls/xmtv.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://iptv.tvfix.org/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6Pzkcy.png"group-title="体育", Astro Arena
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PzQC0.png"group-title="体育", Astro Arena 2
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9028.m3u8
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVWzk.png"group-title="体育", Astro SuperSport
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6708 
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6708 
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVs4l.jpg"group-title="体育", Astro SuperSport 2 
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6710 
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6710 
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVCnv.png"group-title="体育", Astro SuperSport 3 
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6711 
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6711 
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVvNW.png"group-title="体育", Astro SuperSport 4 
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6Pzkcy.png"group-title="体育", Astro Arena
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6707
+#http://iptv.tvmalaysia.cc/jalan8/jalan8/6707
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVWzk.png" group-title="体育",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVs4l.jpg" group-title="体育",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVCnv.png" group-title="体育",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/09/6DVvNW.png" group-title="体育",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PzQC0.png" group-title="体育",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 1
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6629
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6629
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 1
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6630
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6630
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 2
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6631
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6631
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 2
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6632
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6632
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sports 3
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6633
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6633
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports Europ" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport Europe 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6634
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6634
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports Europ" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport Europe 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6635
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6635
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport eXtra 1 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6636
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6636
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",,BT Sport eXtra2 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6637
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6637
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",,BT Sport eXtra3 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6638
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6638
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports eXtra 4" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="体育",BT Sport eXtra4 
 #EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6639
+#http://tv1.live:25461/star7arab/WtnJQObFQO/6639
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 1 
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 1
-https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D。 png?dl=1" group-title="体育",BT Sport 2 
-https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 1
-http://red.ipfox.org:8080/1234/12345678/31548
+http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 2 
-http://red.ipfox.org:8080/1234/12345678/31547
+http://red.ipfox.org:8080/1234/12345678/31497
 #EXTINF:-1 tvg-id="" tvg-name="beIN Premium 3" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports Premium 3
-http://red.ipfox.org:8080/1234/12345678/31546
+http://red.ipfox.org:8080/1234/12345678/31496
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 1
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png"group-title="体育",beIN Sports 2
