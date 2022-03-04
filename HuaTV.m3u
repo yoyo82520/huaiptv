@@ -267,10 +267,20 @@ http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
 http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
+rtmp://59.124.75.157/sat/md051
+#EXTINF:-1 tvg-name="纬来体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
+rtmp://59.124.75.157/sat/md011
+#EXTINF:-1 tvg-name="纬来体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
+rtmp://59.124.75.157/sat/md041
 #EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾",博斯运动1
 http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 #EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台湾",博斯运动2
 http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://iptv-pro.github.io/logo/ELEVENSPORTS1.png" group-title="台湾",ELEVEN SPORTS 1
+rtmp://59.124.75.157/sat/tv731
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN SPORTS 2
+rtmp://59.124.75.157/sat/tv741
 #EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://iptv-pro.github.io/logo/ELEVENSPORTS1.png" group-title="台湾",ELEVEN SPORTS 1
 http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN SPORTS 2
