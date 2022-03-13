@@ -31,8 +31,6 @@
 {"key":"csp_appysv2_杨桃","name":"杨桃影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_极品影视","name":"极品影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.yhzy.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_迪迪影院","name":"迪迪影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
-
 //{"key":"csp_appysv2_TV酷","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.u23c.com/api.php/app/"},
 //{"key":"csp_appysv2_爱迪影视","name":"爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidi.fun/xgapp.php/v1/"},
 //{"key":"csp_appysv2_大熊","name":"大熊(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
