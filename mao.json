@@ -21,7 +21,7 @@
 //{"key":"csp_appysv2_段友影视2","name":"無言映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 //{"key":"csp_appysv2_饭后电影","name":"華人映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
 //{"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_appysv2_神马影视","name":"神马影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://summ.vip/api.php/v1.vod"},
+//{"key":"csp_appysv2_神马影视","name":"神马影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://summ.vip/api.php/v1.vod"},
 
 {"key":"csp_appysv2_爱西西TV","name":"愛映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_爱西西","name":"爱西西","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://myaixixi.com/api.php/app/"},
