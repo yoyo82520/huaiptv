@@ -12,11 +12,17 @@ https://catvod.github.io/CatVodTVJsonEditor/
 
 猫影视｜接口
 
-https://c1n.cn/cat
+http://gg.gg/haomoo
 
-http://gg.gg/898900
+https://c1n.cn/moaoo
 
 https://c1n.cn/hao
+
+http://gg.gg/huatv2
+
+https://c1n.cn/hitv
+
+https://c1n.cn/iptv2
 
 设置 > 当前配置接口
 猫影视｜TG交流群
