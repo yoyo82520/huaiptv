@@ -37,8 +37,8 @@
 {"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
 {"key":"auete_spider","name":"Auete影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_CC影视","name":"CC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_CJT影院","name":"CJT影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cjt521.com/api.php/v1.vod"},
-{"key":"csp_appysv2_DC影视","name":"DC影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
+{"key":"csp_appysv2_CJT影院","name":"CJT影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cjt521.com/api.php/v1.vod"},
+{"key":"csp_appysv2_DC影视","name":"DC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 
 // M浏览器中APP影视规则支持（AppYsV2 / 2022.02.24）
 //{"key":"csp_appysv2_TV酷","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.u23c.com/api.php/app/"},
