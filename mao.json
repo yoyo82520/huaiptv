@@ -22,7 +22,7 @@
 //{"key":"csp_appysv2_饭后电影","name":"饭后电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
 
 
-{//"key":"csp_appysv2_爱西西TV","name":"爱西西","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
+//{"key":"csp_appysv2_爱西西TV","name":"爱西西","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_爱西西","name":"愛映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myaixixi.com/api.php/app/"},
 {"key":"csp_appysv2_雪人影视2","name":"雪人映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_雪人影视","name":"雪人影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zy.qd234.cn/mogai_api.php/v1.vod"},
@@ -39,6 +39,7 @@
 {"key":"csp_appysv2_CC影视","name":"CC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_CJT影院","name":"CJT影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cjt521.com/api.php/v1.vod"},
 {"key":"csp_appysv2_DC影视","name":"DC影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
+
 // M浏览器中APP影视规则支持（AppYsV2 / 2022.02.24）
 //{"key":"csp_appysv2_TV酷","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.u23c.com/api.php/app/"},
 //{"key":"csp_appysv2_猫咪TV","name":"猫咪TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.12.113.90:6565/api.php/iptv/vod/"},
