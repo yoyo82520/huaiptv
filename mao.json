@@ -5,7 +5,7 @@
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/custom_spider.jar?raw=true",
 "sites":[
 {"key":"csp_appysv2_杨桃","name":"華人映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
-{"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_appysv2_天空影视V2","name":"天空影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
 {"key":"csp_appysv2_追剧达人2","name":"追劇达人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/xgapp.php/v1/"},
 {"key":"csp_appysv2_手指","name":"和黃映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
