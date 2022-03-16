@@ -20,8 +20,6 @@
 {"key":"csp_appysv2_vip影院","name":"VIP影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://360yy.cn/api.php/app/"},
 //{"key":"csp_appysv2_段友影视2","name":"無言映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 //{"key":"csp_appysv2_饭后电影","name":"饭后电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
-
-
 //{"key":"csp_appysv2_爱西西TV","name":"爱西西","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_爱西西","name":"愛映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myaixixi.com/api.php/app/"},
 {"key":"csp_appysv2_雪人影视2","name":"雪人映畫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
